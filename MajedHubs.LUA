@@ -17,4 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/m
 end
 if game.PlaceId == 574407221 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/main/SuperHeroTycoon.LUA"))()
+else
+	game.Players.LocalPlayer:Kick("مدعوم غير الماب")
 end
