@@ -10,7 +10,7 @@ if game.PlaceId == 7346416636 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/008ebbcc508a827d71a4a6005ff066f573fb49eb/RM7_LOL_MAJED.Lua"))()
 end
 if game.PlaceId == 335760407 then
-loadstring(game:HttpGet("https://pastebin.com/raw/um8UZ24d"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Majeedl12/ScriptsByM7/main/TpsStreetSoccer.RM7Hubs.Lua"))()
 end
 if game.PlaceId == 142823291 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/main/MM2_OP.LUA"))()
