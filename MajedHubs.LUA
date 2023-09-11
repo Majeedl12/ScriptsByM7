@@ -7,7 +7,7 @@ if game.PlaceId == 9748064935 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/main/BROOKHAVEN_arabic"))()
 end
 if game.PlaceId == 7346416636 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/H7ZmTeam/SPONGE/main/ScriptsM7sLocalend.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/008ebbcc508a827d71a4a6005ff066f573fb49eb/RM7_LOL_MAJED.Lua"))()
 end
 if game.PlaceId == 335760407 then
 loadstring(game:HttpGet("https://pastebin.com/raw/um8UZ24d"))()
@@ -17,8 +17,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/m
 end
 if game.PlaceId == 574407221 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/main/SuperHeroTycoon.LUA"))()
-else
-	game.Players.LocalPlayer:Kick("مدعوم غير الماب")
 end
 
 
