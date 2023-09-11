@@ -1,4 +1,4 @@
---(𓂀 𝕊𝕜𝕚 𝕙𝕦𝕓 𝕍𝟠.𝟜 𓂀)--
+--(𓂀RM7hubs𓂀)--
 -- Made by 2ivsl discord
 -- Made by majed
 --- شكرا لاستخدامك للسكربت
@@ -17,8 +17,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/m
 end
 if game.PlaceId == 574407221 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/M7majed/ScriptsByM7/main/SuperHeroTycoon.LUA"))()
-else
-	game.Players.LocalPlayer:Kick("مدعوم غير الماب")
 end
+
 
 
