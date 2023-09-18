@@ -9,7 +9,7 @@ txt1.Text = "العرب هوب ايس بك اهلا"
 txt1.TextSize = 18
 txt2.Text = " VR7 & ناشرين السكربت ماجد "
 txt1.TextSize = 18
-img1.Image = "rbxassetid://14815284566
+img1.Image = "rbxassetid://14815284566"
 image2.Image = "rbxassetid://14815284566"
 wait(8)
 
