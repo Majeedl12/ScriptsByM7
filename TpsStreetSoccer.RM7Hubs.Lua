@@ -1,1 +1,1647 @@
-([[This file was protected with MoonSec V3 by federal9999 on discord]]):gsub('.+', (function(a) _wpbkSGxewlPe = a; end)); return(function(u,...)local d;local o;local f;local s;local l;local a;local e=24915;local n=0;local t={};while n<704 do n=n+1;while n<0x140 and e%0x2646<0x1323 do n=n+1 e=(e+1008)%26386 local r=n+e if(e%0x218c)>0x10c6 then e=(e*0x29a)%0x587d while n<0x357 and e%0xdd2<0x6e9 do n=n+1 e=(e*785)%16433 local r=n+e if(e%0x106c)>=0x836 then e=(e+0x122)%0x5b1e local e=13200 if not t[e]then t[e]=0x1 d=(not d)and _ENV or d;end elseif e%2~=0 then e=(e+0x116)%0x5684 local e=68769 if not t[e]then t[e]=0x1 a="\4\8\116\111\110\117\109\98\101\114\122\95\89\109\120\95\70\79\0\6\115\116\114\105\110\103\4\99\104\97\114\112\120\99\70\98\76\114\101\0\6\115\116\114\105\110\103\3\115\117\98\86\102\121\80\90\106\104\101\0\6\115\116\114\105\110\103\4\98\121\116\101\88\98\98\121\84\76\73\90\0\5\116\97\98\108\101\6\99\111\110\99\97\116\81\115\122\118\108\110\99\72\0\5\116\97\98\108\101\6\105\110\115\101\114\116\110\116\115\88\102\66\82\114\5";end else e=(e*0x21f)%0x2322 n=n+1 local e=68176 if not t[e]then t[e]=0x1 o=function(o)local e=0x01 local function t(n)e=e+n return o:sub(e-n,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=f.byte(t(0x01))local e=t(e)if n=="\2"then e=l.z_Ymx_FO(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then d[e]=function(e,n)return u(8,nil,u,n,e)end elseif n=="\4"then e=d[e]elseif n=="\0"then e=d[e][t(f.byte(t(0x01)))];end local n=t(0x08)l[n]=e end end end end end elseif e%2~=0 then e=(e-0xa9)%0x3d89 while n<0x12b and e%0x2488<0x1244 do n=n+1 e=(e-336)%47928 local l=n+e if(e%0x31ea)<0x18f5 then e=(e-0x114)%0xbdaf local e=27029 if not t[e]then t[e]=0x1 d=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x3e4)%0x60e7 local e=92916 if not t[e]then t[e]=0x1 end else e=(e+0x2a8)%0x6d82 n=n+1 local e=87697 if not t[e]then t[e]=0x1 f=string;end end end else e=(e-0x313)%0x46a3 n=n+1 while n<0x2dc and e%0x4530<0x2298 do n=n+1 e=(e+292)%14965 local d=n+e if(e%0x30c8)>0x1864 then e=(e-0x3b3)%0x6083 local e=60250 if not t[e]then t[e]=0x1 end elseif e%2~=0 then e=(e-0x33c)%0x3192 local e=5948 if not t[e]then t[e]=0x1 s=tonumber;end else e=(e*0x23f)%0x2f04 n=n+1 local e=51167 if not t[e]then t[e]=0x1 l={};end end end end end e=(e*886)%45336 end o(a);local n={};for e=0x0,0xff do local t=l.pxcFbLre(e);n[e]=t;n[t]=e;end local function r(e)return n[e];end local f=(function(a,f)local u,t=0x01,0x10 local n={{},{},{}}local d=-0x01 local e=0x01 local o=a while true do n[0x03][l.VfyPZjhe(f,e,(function()e=u+e return e-0x01 end)())]=(function()d=d+0x01 return d end)()if d==(0x0f)then d=""t=0x000 break end end local d=#f while e<d+0x01 do n[0x02][t]=l.VfyPZjhe(f,e,(function()e=u+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 l.ntsXfBRr(n[0x01],(r((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+o)%0x100)));o=a+o;end end return l.QszvlncH(n[0x01])end);o(f(165,"_6q(VPE!J^lNf;-*P;NlVqlP*JP^;!6l!VZ?E6JJ-!V;P!N6(NlJ(P!(-f(-Jf-;(lVs^lqPNlwfEEf*/JPl-iqqq^JPk*!6flEPNJ66PJN^MJJV;PfJqVNVX!E(*qVfJP-VEql;Dq!PE!fVPVlfn^Eq;(V(l6WlPVNE-*!!E6N;VJlP*;^VfJq*l(oP(f^;-*H)Pf-PVEl>qE!e--Vl^-*(((lV^**NJV-q(;;fq^JPN*(q!E;(qE(-^lq^JE;f!6;!#PPN-q(fEE*(;;(Nf(6f!;;V(PfVXEPV-qO!^!;66l(qJ-6;!6;CE!NPz6PNNl?*J^NJ;6q;NN6q!(;lEqN6*l!Nfq%(!f!zf-P!N(6qENfV(E^N6qE!NNqqE*N^fPq6lN9JP*-*qNJf-JEqfP*;!^EVf)V^lEZ6Jqff(q^*KNPENV66Y(E6-NVPl(*JPN*(q(^f*PEqlN-6V6PJNP(;^f*JP(-VqE^^-iV;lN-!E6Pql-(;^^-*PJfV6f^!*Jq(J6{N*6V;;N(P^y6l!!;fVA^^f-6NJN^A--!P;P(2JP-JJP;-(PEj-qqPJx-^-P(*f;VP^P--Vf;P6VE^f(f-qJNV(*J(*PEV^qF^EEf^N!66^-(EJ-N-q6JJ*PV^J-lw*lJ^*!EqfE(9E6--q!lVJ^-(!(;lP^N-6qV!lN6VJl!qf-PJNE6q!**VPVNN-VVifq6N66Ef*!P%-(6N!qf-qfJ!*(EEPPNA(f^E6EE-;fqE!6-Nq-l!^^*V!*;^P;;!<VP^N*q;!;-J;;(JfV6;^(-^PPl(q^E;f((Vq6!-A!EiN*6;J-*EVlN!qqPJ;J,*6N!J+jPlN!6(^q;lV6^E6q!lf(qE6P!a*-PE-^V6JP:lP^^;-JV^P^NV(-^-6;!6*66N!P*Dq!l6^;*JJV-VEE;l>f!f;!>*l6;l-6(ff;q(lP6-E^N(d P(fEYfqP!*6Ml-X^q-lE6!EElP*!x-E^*^P6-IVV!e*N(P^P*6VlPql;(J^l6yP;f((!!6;NVV^q^E*6!-;EEPlJq!PENEqN^Nff;l(Pf(qql-blENNfIh!N;EqV6-!^IJEV-!PqlN*fVllP6qP>EqN;VllPVPJJ*&P!JJFfV!NNlEM6J--P!*;-6f^6;6q(lp*!-lVP;qqNllLVV*lJmfJVf*6-q-J^6(!6;*E6^;*(!RfJq;JE!qf;P*N!V^l^*!V6^qOl!E^*NE66^-*NJN;(6^JE**(^J(6V*lPP-!(-f^qEE*Nf6EE*-*(P(-^^q^!;*PE;;P(q!lN-5-^PJP"));o(f(221,"uv*_3RwMdoX%8c#P*_38c8V>*v_%w_MP_P8*Pwvv_M*%M_dv83cP{8v**R<w*X%d8##Pvc3a_8dtdv8wc%vX_8_Mvj_M8R#Xl3*8RRRvMPXhc3cPPdv#wvv83RcRPovX_3R8Md_o83c%vv*_3%M_w%o_8#PvPX_*wov#3Rcv#dv#_RPRMPoX%#P3+P*M_#MdoM8_8XbcvPc#2oo_XdcXPwvv3_R_dooo%c#X!w_%Rvw#dPoRcdD#*P#.!Mow%3c%PP*J_Xw*M#Mc%_83#3_o_8RwX3R*MX68v83Fwcdo3ccPP%*h_3Rod3dPX3cMbovd_%RRM#RdMcnP*%RZw3do%3%82*P3_oM;dwXc8MddX8_XRPMoXv8X#3AM*__vMww#ov8MoR%X3XRPdoXR8wPX#cv__#Mcdo8#%PP*8v#dM3d%8vcdodv83Rw%d#%3%##%vo3_R_dcXw8#d*"));local e=(-l.ZBArxDHS+(function()local o,t=l.BtWul_eW,l.kbaoMDoV;(function(e,n,t)e(n(t,e and e,n),t(n,n,n),e(e,e,e))end)(function(n,d,e)if o>l.womY_Stj then return e end o=o+l.kbaoMDoV t=(t*l.edBFiYSk)%l.LadrahFs if(t%l.nGSlsOUL)>l.aPstmgLb then return n else return n(e(n,e,e)and n(e,e,e),n(d,n,e),n(n,e,d))end return d(e(e,e,e),d(n,e,e),d(d and e,n,d))end,function(d,e,n)if o>l.xjkJbKME then return e end o=o+l.kbaoMDoV t=(t-l.nyLGsrAs)%l.lSFyCxWE if(t%l.pcTSWQpD)>=l.nGSlsOUL then t=(t-l.DqeSyeKi)%l.KUqkdpbQ return n else return d(n(e,n,d),n(d,n,e),n(e,d,n))end return d(e(n,d,n),e(d and e,e,e)and n(d,d and e,e),e(e,e,d)and n(e,e,n))end,function(d,e,n)if o>l.eFLMltQr then return d end o=o+l.kbaoMDoV t=(t+l.YHSevfik)%l.uJhfxfAF if(t%l.lSkWilMl)>l.AROouEHw then t=(t-l.dfpywQCX)%l.zxtDkSSa return n else return d(n(e and e,e,e),e(d,e and e,d and e)and e(n,n,n and n),n(d,d,n)and e(e,d,d))end return e(d(n,n,e),n(e,e,e),n(d and n,d and d,n))end)return t;end)())local r=l.PsBdxkof or l.SEUdPPGM;local ne=(getfenv)or(function()return _ENV end);local te=l.kbaoMDoV;local a=l.QFDGuYSR;local d=l.bKbvIego;local o=l.pmBJVhaK;local function m(y,...)local h=f(e,"_xKXFe?tWbOyuA-SeOWFu?NWFOytu-xkeK?AeuS#gAtFWuF#XOeey-uSFKeFu?-tbKWAtWxx8wbFOexWKubAbI?W?KtX-tAF?ye--S-)tKW?St-Oty?uS-x7OOSeK-tNyKFKby-SSutxyKSFXxtKF?WSuOPuF--KxSFyb-YAXuWSe-OO-KKF??-OeSOV-KxS?5tA-Fx-?bXuWKu97KFF-AKbttyxW-A-xKeFb?y#uxXeKKyWA?XAK-uCAFFFeeuWAutFubSWXOtuSStey?SX-?FOySre--euyy/TS??JyySSFbWeAFOFSKKW?OOuu?AtFyXWu--eeXX-AtuWeyF?r?FyWOuur-OKASPyx?tKbOAux-XbKWyuAbF{eWueyeb0WOb-m-KFbKOAxtmObOOuxSxKOXbXtu-S1RxF?XbWAOxuyAxteKW?AxSyXxOFAXKte-WFAyyWxAXut-u*AO-yeSFu-KSS?teX-O:e?-W(SK2?y-ybOtXAKu WMKKxWtt?8OKAA?AxySeF?eAW--eute9WexWuu-x&bO;WFOWWOxDxeKK}?yOF-?KWOAx-eXbx-?xbFKOxAuyuGtF;WKuFeFOAzxKDtAytSbFhtyeWAyAux-?YS?FuWSAyuOeKbtAuxtxFOAAbKAxuO-SKXxtWOy-yX-txyKydFbtAuOhCSO?buArSe:ttuyiyBOWKOxA!eFOAb?x-eSO8-XXK?XyaySlxFXWeO-XSWqtFSOFxWAyS6AeKW??FyS-WKO?uSyeSOx-KvbeAbAAyxxtFyF-AXF?SyAAFXttFy?SbFFebu-x5epKN?uOF-?KWA?xyFSbF-eKW?WOx-WKXS-FSWKuFI?K}XxOeb?KWXuOAb-tWtKb3St-WtOW-K?WbOO-uK-AWK??WO?-ySFKy?ASqKXttyO-AKuteyuy-XeWXuXutFutAAeuSeWWOuuAbFutAOtS?SKX-t?yWSOt--OKStxOWAOXn?SybSXA%xueFb?AW?WuxxeXXWtutxOexbbAOO-S?XKtFy?F?bSSXxK?xOFWF-OUWFOWuOtb?KOFtO-u?tOtFbxSb-utubtvx-yWFbSe(FOeyuSyueK?yAtuOeOttASuy?XeF-?}x?OWXx?eybOAux-teOK-FK??WyX-uK-t!Seeubt-OxyeSyK-eXFJFFSWWuOiuOK-wKe?tuSjyF-WxuyO!-uKF??OWXxbx-K<XetO?-uKxeAOxt-uF6KFFW?XS?yye+KA)xFeFb?AWWbuOOB-0KK?FO?-WKOeu-ASKXKtFy?SWXOtuy-FGFXWFu?auFOWuu-ttyXjxXyxW?FbuA-KHOW&AeWWAyAxx?#O?AtK?S?FXtOyuS-WuSxKt?tyFAOXW?SubStF?x?eObOAux-yS-b-FKu?WOO-utbAbxeeStbOOyOSSX-WDuKeWb?AyuOxXF-b{AKeeybpuFXWyuuxX-KXF??OW-OtF-XxAeXOK-eKxe-W--AKSt?bF-tXOt-FubtA/xKeFcAFtWuutxxehWXut=y-WXx?uO-S%WK-lxttxbS--XxaxFXWFuu<WFOWuFXt-uKSeXbWXeOb-A-KU?K-OKyKb?OOu--X9bWyFS?XWW&SKS-FqWK-td?FbWOuu:-eFbeAFx?eWyAAuxS?qyF<rK??bOOSWK-t;yKKFFutWyySuFXWmAerFeWOFuOgAF-buAKxFe?yWdXxueSOv-XKF?yOWS1Fu?-yxSKXAt?ybSOXAt-uFIeFFW?uWxXFuWSAkx?etb?AWxOWxb--xKKt?uK-WKy?uyKSNXKtFy?#SXOtAy-=xFKWeu?;W?KWuuSxDeKbFAWxW?uO-A-KK?Kye-?KW?OuuSeX&tFyFSWXWtuyux-FFWKu?.?FOWOAOC-?<OyAFxteWOrAuK<?dyF-?K??OOOSeK-tYyKxF?XtWyuSuFRWJuerFeWyAuOxpF-OKAKxFe?bWA-xu?NO>-?KF?WOW}OXA?-yKSKX?t?uXSOeuWSujcFFFWWuW8yFuO--VxKe?b?AOxO?ub-SHXS?FOt-WXx?uy>SiFFtOy?SOXOWAy-N.FKOF-SEWFuWuA xk?tbFS?FXeOb-A-KK?KyX-?FWt?OuSfXYtFyFLXXWbOySS-FKWKu?E?eKWOA-xAe6b?AFKOeWbOAux-tIOK-bK??bOO-uK-tUueSFXOtWySSuX-W uKxAF?WOuOouF-bxAKxWebbWAOxu?KON-XKF?OOy-OKu?-AeSKXet?uOx?XutSu2:-FFW?uWXO?KW-AxxKebb?- xOeuu}-TKK?FOt-WKO?uyXS,XKtFy?xXXOtuy-?Wy?SWX?tyWFyySAtFyyGtXbWtuu87!uWtubAXeybuuxSt?tbtAWSeS?XStOyuS-WX--KA?byX-SX8V-eebKAFx?uW;uFeWuAFOKSgK??WOOeSbX-Fxe?%bS-Wxu?ybSSKK?wFeAWWuOvuyOSbF!tSt?SyFbWuutHeF?FFAOxtlOWSAOxb?KOXAtKOe-Xut-u!RKFFbiuWBOFuO1 xxKeFb?AyxOeub-SKXe?FOt-WKu?uO-S<XKWKy?SWXOt-y-7xFKb?uy5WFOWuAKxNeKbF-WxAeObAA-Kx?KOF-?KWWKOu--XrtFyFStXWWuyAS-F>WKutC?FWWOA-FWeHbXAFxyeWbOAux-tWOK-FK??OOO-AK-tsAFSFX?tWyySuX-WwutVFF?WWuOxWF-b^AKWtyymuXAWWutxkFFbXutxOF-KutXy6SKXF-?KO?XOOSKu(abFFW?uWFAyWStXXtAybSOAWFOeub--jWOAWxOeWbAO?AAxSOy-XKy?uOSOOK9?etxyySXtXtOAOXbeAyuAeKS?bbbCSFteAuAIAFbttbtSSXkeAOtxSXyWb-?SF?yOxWKAyM?FWWOXWtty-SASFtbut<OFeWXuFuKeWbeWW9AeWbt-(KxeeOWAuyOSuX-WnuK:-F?WWuOx-tSb:AKxFeWbWAOxutJOO-KKe??Oy-OKu?-y%duXFt?yWSuXutSu*xFeOW?uWTOFAW-A1xK??ObAWxyeuOK-TKK?FO?-OKO?uO-SKXKtey?2OeXtuy-nIFFWFu?oWeuu?u-xxeKbbA?xWeObuS?K1?KOF-WKW?yOu--eKtKyFS?XbtOyuS-txWKuFv?FWbOuu,-eGbXAFx?eWOuSex-?UOKSeK??WOOS-FWtByKSFFxtWyOSu?FbFuKhFF?W-uOdAF-OqAKxWebbWAOxu?FO>-XKF?OOy-OKu?-ytSKXet?yWxuXut-u7<XFFW?uWxu?WW-APxK??b?AWxO?-yK-zKX?FOy-WKO?uu-RAXKtey?SbXOWby-xKexWFubVWe-Wuu-xneKOXA?xbeObSA-Kw?KOFSuKW?OOu--XLtFyFS?F-tOyuS-FxWKu?c??WWyuuYSeNbKAFKFeWOux?x-?KOK-tK??WOOS-FStDyeSFFytWyOSuX-bKuK&eF?WyuOv-F-yd-xxFeWbWAyxuteO{SFKu??Ou-OXK?-y,SKXFWKyWSuXuWKupGFFFO?Au&OFSW-AKxK?Ob?-OK-euOX-.Ku?FO?-WKOtFO-SXXKtby?SOXObuuy+<F?WFubZWebWu-9xWeKbOA?KyeObuA-XKtXOF-AKWtxOu--XftFyyS?F7tOyuS-FnWKuFxxFWW-uux?eRbXAFX??XbO-Ux-?xOKSyK?tOyF-uXFt5yOSFX?tWyOS-X-WFuK)OF?WOuOKu?Wb4AtxFebbWAuxutEyO-KKy??u=-OKu?-uK/uXFt-yWS-Xut-uR0FFyW?AxzOFAW-A4xKeFOtAWxSeuOt-{KX?Fu?SbKOtxO-SXXKt?y?}OFutuueq!FXWFu?sWeubXu-xWeKbWA?xWeOb--eK&?yOF-WKW?OOu--XetKybS?FxtOyAS-?rbtuFiyFWW-uuKFerOFAOx?eSbO-Wx-?/OK-FXx?WOS-uXetsyFSFe?WuyO7KX-WFuKxOF?bOuuPue?b8AyxFe?bWAOK-e-O?-KKu??OO-OKubryrSKXFttyWSOXu");local n=l.BtWul_eW;l.EfDfXtsK(function()n=n+l.kbaoMDoV end)local function e(t,e)if e then return n end;n=t+n;end local t,n,b=u(l.BtWul_eW,u,e,h,l.XbbyTLIZ);local function f()local n,t=l.XbbyTLIZ(h,e(l.kbaoMDoV,l.pmBJVhaK),e(l.HXapFxVx,l.BfpiCLZu)+l.bKbvIego);e(l.bKbvIego);return(t*l.HbgsABig)+n;end;local c=true;local c=l.BtWul_eW local function p()local e=n();local n=n();local o=l.kbaoMDoV;local d=(t(n,l.kbaoMDoV,l.hEABEEVn)*(l.bKbvIego^l.WTgVFeMk))+e;local e=t(n,l.ZyKEPcXh,l.LGXKv_Zp);local n=((-l.kbaoMDoV)^t(n,l.WTgVFeMk));if(e==l.BtWul_eW)then if(d==c)then return n*l.BtWul_eW;else e=l.kbaoMDoV;o=l.BtWul_eW;end;elseif(e==l.MZSeuPuQ)then return(d==l.BtWul_eW)and(n*(l.kbaoMDoV/l.BtWul_eW))or(n*(l.BtWul_eW/l.BtWul_eW));end;return l.eYpluYyh(n,e-l.WDPJkxfn)*(o+(d/(l.bKbvIego^l.jgPznWGM)));end;local _=n;local function k(n)local t;if(not n)then n=_();if(n==l.BtWul_eW)then return'';end;end;t=l.VfyPZjhe(h,e(l.kbaoMDoV,l.pmBJVhaK),e(l.HXapFxVx,l.BfpiCLZu)+n-l.kbaoMDoV);e(n)local e=""for n=(l.kbaoMDoV+c),#t do e=e..l.VfyPZjhe(t,n,n)end return e;end;local c=#l.CVDAsSJu(s('\49.\48'))~=l.kbaoMDoV local e=n;local function z(...)return{...},l.DGOkTvDT('#',...)end local function m()local r={};local e={};local h={};local s={h,r,nil,e};local e=n()local u={}for d=l.kbaoMDoV,e do local t=b();local n;if(t==l.kbaoMDoV)then n=(b()~=#{});elseif(t==l.bKbvIego)then local e=p();if c and l.mBG__EZn(l.CVDAsSJu(e),'.(\48+)$')then e=l.Ycnubyot(e);end n=e;elseif(t==l.BtWul_eW)then n=k();end;u[d]=n;end;s[l.pmBJVhaK]=b();for e=l.kbaoMDoV,n()do r[e-(#{l.kbaoMDoV})]=m();end;for s=l.kbaoMDoV,n()do local e=b();if(t(e,l.kbaoMDoV,l.kbaoMDoV)==l.BtWul_eW)then local r=t(e,l.bKbvIego,l.pmBJVhaK);local b=t(e,l.QFDGuYSR,l.BfpiCLZu);local e={f(),f(),nil,nil};if(r==l.BtWul_eW)then e[o]=f();e[a]=f();elseif(r==#{l.kbaoMDoV})then e[o]=n();elseif(r==y[l.bKbvIego])then e[o]=n()-(l.bKbvIego^l.ZSxGFfBa)elseif(r==y[l.pmBJVhaK])then e[o]=n()-(l.bKbvIego^l.ZSxGFfBa)e[a]=f();end;if(t(b,l.kbaoMDoV,l.kbaoMDoV)==l.kbaoMDoV)then e[d]=u[e[d]]end if(t(b,l.bKbvIego,l.bKbvIego)==l.kbaoMDoV)then e[o]=u[e[o]]end if(t(b,l.pmBJVhaK,l.pmBJVhaK)==l.kbaoMDoV)then e[a]=u[e[a]]end h[s]=e;end end;return s;end;local function j(t,n,e)local d=n;local d=e;return s(l.mBG__EZn(l.mBG__EZn(({l.EfDfXtsK(t)})[l.bKbvIego],n),e))end local function p(k,e,h)local function ee(...)local f,g,y,ee,s,n,b,m,_,c,j,t;local e=l.BtWul_eW;while-l.kbaoMDoV<e do if l.bKbvIego<e then if l.HXapFxVx>e then if e>l.bKbvIego then repeat if l.pmBJVhaK<e then c=l.DGOkTvDT('#',...)-l.kbaoMDoV;j={};break;end;m={};_={...};until true;else c=l.DGOkTvDT('#',...)-l.kbaoMDoV;j={};end else if e>=l.QFDGuYSR then for n=l._xOddAxV,l.ZxhWIAYD do if e~=l.HXapFxVx then e=-l.bKbvIego;break;end;t=u(l.zzDawkOF);break;end;else t=u(l.zzDawkOF);end end else if l.BtWul_eW<e then if e>=-l.kbaoMDoV then repeat if l.bKbvIego>e then y=u(l.BfpiCLZu,l.hqBrQVWU,l.pmBJVhaK,l.TFQjIXfY,k);s=z ee=l.BtWul_eW;break;end;n=-l.eMqEJdyO;b=-l.kbaoMDoV;until true;else n=-l.eMqEJdyO;b=-l.kbaoMDoV;end else f=u(l.BfpiCLZu,l.jkqgPppc,l.kbaoMDoV,l._omcVVhK,k);g=u(l.BfpiCLZu,l.zzDawkOF,l.bKbvIego,l.yanzPyYr,k);end end e=e+l.kbaoMDoV;end;for e=l.BtWul_eW,c do if(e>=y)then m[e-y]=_[e+l.kbaoMDoV];else t[e]=_[e+l.kbaoMDoV];end;end;local e=c-y+l.kbaoMDoV local e;local u;local function c(...)while true do end end while true do if n<-l.osVpULnj then n=n+l.VUECLiYM end e=f[n];u=e[te];if u<l.LGXKv_Zp then if u<=l.GnOJlisq then if u<=l.BfpiCLZu then if l.bKbvIego<u then if l.QFDGuYSR<u then if u>=l.QFDGuYSR then repeat if l.BfpiCLZu>u then local u,h;for b=l.BtWul_eW,l.BfpiCLZu do if l.pmBJVhaK<=b then if b<=l.QFDGuYSR then if l.kbaoMDoV<=b then for s=l.LGXKv_Zp,l.mreTJgxF do if l.QFDGuYSR>b then u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];break;end;u=e[d];h=t[e[o]];t[u+l.kbaoMDoV]=h;t[u]=h[e[a]];n=n+l.kbaoMDoV;e=f[n];break;end;else u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];end else if l.QFDGuYSR~=b then for a=l.kXCUsRAw,l.egUGFDiT do if b~=l.HXapFxVx then u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))break;end;t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];break;end;else t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];end end else if b>=l.kbaoMDoV then if b~=l.bKbvIego then u=e[d];h=t[e[o]];t[u+l.kbaoMDoV]=h;t[u]=h[e[a]];n=n+l.kbaoMDoV;e=f[n];else t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];end else u=e[d]t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];end end end break;end;local e=e[d]t[e](t[e+l.kbaoMDoV])until true;else local u,h;for b=l.BtWul_eW,l.BfpiCLZu do if l.pmBJVhaK<=b then if b<=l.QFDGuYSR then if l.kbaoMDoV<=b then for s=l.LGXKv_Zp,l.mreTJgxF do if l.QFDGuYSR>b then u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];break;end;u=e[d];h=t[e[o]];t[u+l.kbaoMDoV]=h;t[u]=h[e[a]];n=n+l.kbaoMDoV;e=f[n];break;end;else u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];end else if l.QFDGuYSR~=b then for a=l.kXCUsRAw,l.egUGFDiT do if b~=l.HXapFxVx then u=e[d]t[u]=t[u](r(t,u+l.kbaoMDoV,e[o]))break;end;t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];break;end;else t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];end end else if b>=l.kbaoMDoV then if b~=l.bKbvIego then u=e[d];h=t[e[o]];t[u+l.kbaoMDoV]=h;t[u]=h[e[a]];n=n+l.kbaoMDoV;e=f[n];else t(e[d],e[o]);n=n+l.kbaoMDoV;e=f[n];end else u=e[d]t[u](r(t,u+l.kbaoMDoV,e[o]))n=n+l.kbaoMDoV;e=f[n];end end end end else if u>=-l.kbaoMDoV then for l=l._xOddAxV,l.MjwyfODp do if u<4 then n=e[o];break;end;local e=e[d]t[e](r(t,e+1,b))break;end;else n=e[o];end end else if 0<u then if u>-2 then for n=20,69 do if u>1 then local n=e[d]t[n](r(t,n+1,e[o]))break;end;t[e[d]][e[o]]=t[e[a]];break;end;else local n=e[d]t[n](r(t,n+1,e[o]))end else t[e[d]]={};end end else if u>10 then if u<13 then if 11==u then local l,u;for b=0,6 do if 2>=b then if b<=0 then l=e[d]t[l](r(t,l+1,e[o]))n=n+1;e=f[n];else if b>1 then t(e[d],e[o]);n=n+1;e=f[n];else l=e[d];u=t[e[o]];t[l+1]=u;t[l]=u[e[a]];n=n+1;e=f[n];end end else if 5<=b then if 5~=b then t(e[d],e[o]);else t(e[d],e[o]);n=n+1;e=f[n];end else if-1<b then for h=17,55 do if 4>b then l=e[d]t[l]=t[l](r(t,l+1,e[o]))n=n+1;e=f[n];break;end;l=e[d];u=t[e[o]];t[l+1]=u;t[l]=u[e[a]];n=n+1;e=f[n];break;end;else l=e[d];u=t[e[o]];t[l+1]=u;t[l]=u[e[a]];n=n+1;e=f[n];end end end end else t[e[d]]();end else if u==14 then t[e[d]]=(e[o]~=0);else local c,y,u,h,s,b,r,l;for l=0,2 do if 1<=l then if l>=-1 then for a=33,84 do if l~=2 then l=0;while l>-1 do if l<3 then if l<=0 then u=e;else if-3<l then repeat if 1<l then s=o;break;end;h=d;until true;else h=d;end end else if l>4 then if l>2 then for e=46,72 do if l~=5 then l=-2;break;end;t(r,b);break;end;else l=-2;end else if l>3 then r=u[h];else b=u[s];end end end l=l+1 end n=n+1;e=f[n];break;end;l=0;while l>-1 do if 2<l then if 4>=l then if l~=3 then r=u[h];else b=u[s];end else if 4<l then repeat if l>5 then l=-2;break;end;t(r,b);until true;else t(r,b);end end else if 1>l then u=e;else if l>1 then s=o;else h=d;end end end l=l+1 end break;end;else l=0;while l>-1 do if 2<l then if 4>=l then if l~=3 then r=u[h];else b=u[s];end else if 4<l then repeat if l>5 then l=-2;break;end;t(r,b);until true;else t(r,b);end end else if 1>l then u=e;else if l>1 then s=o;else h=d;end end end l=l+1 end end else c=e[d];y=t[e[o]];t[c+1]=y;t[c]=y[e[a]];n=n+1;e=f[n];end end end end else if u>=9 then if 7~=u then repeat if u<10 then local e=e[d]t[e]=t[e](r(t,e+1,b))break;end;local n=e[d]local l,e=s(t[n](r(t,n+1,e[o])))b=e+n-1 local e=0;for n=n,b do e=e+1;t[n]=l[e];end;until true;else local e=e[d]t[e]=t[e](r(t,e+1,b))end else if 3~=u then for n=22,94 do if u<8 then t[e[d]]=p(g[e[o]],nil,h);break;end;local n=e[d]t[n]=t[n](r(t,n+1,e[o]))break;end;else t[e[d]]=p(g[e[o]],nil,h);end end end end else if u<23 then if u<=18 then if u<=16 then if u>=12 then for l=16,76 do if u~=15 then for l=0,3 do if 2<=l then if 3==l then if(t[e[d]]==e[a])then n=n+1;else n=e[o];end;else t[e[d]]=h[e[o]];n=n+1;e=f[n];end else if l<1 then t[e[d]]=(e[o]~=0);n=n+1;e=f[n];else h[e[o]]=t[e[d]];n=n+1;e=f[n];end end end break;end;t[e[d]]={};break;end;else for l=0,3 do if 2<=l then if 3==l then if(t[e[d]]==e[a])then n=n+1;else n=e[o];end;else t[e[d]]=h[e[o]];n=n+1;e=f[n];end else if l<1 then t[e[d]]=(e[o]~=0);n=n+1;e=f[n];else h[e[o]]=t[e[d]];n=n+1;e=f[n];end end end end else if u>=16 then for l=34,72 do if u~=17 then if not t[e[d]]then n=n+1;else n=e[o];end;break;end;local l,b;for u=0,3 do if 1<u then if 2~=u then t(e[d],e[o]);else t(e[d],e[o]);n=n+1;e=f[n];end else if u==0 then l=e[d]t[l](r(t,l+1,e[o]))n=n+1;e=f[n];else l=e[d];b=t[e[o]];t[l+1]=b;t[l]=b[e[a]];n=n+1;e=f[n];end end end break;end;else if not t[e[d]]then n=n+1;else n=e[o];end;end end else if u>20 then if u~=20 then for l=16,91 do if u~=22 then if(t[e[d]]==e[a])then n=n+1;else n=e[o];end;break;end;t[e[d]][e[o]]=e[a];break;end;else t[e[d]][e[o]]=e[a];end else if u>16 then repeat if u~=19 then local l,y,k,_,c;for u=0,6 do if u<3 then if 0<u then if-2<u then for r=42,54 do if 2~=u then l=e[d];y=t[e[o]];t[l+1]=y;t[l]=y[e[a]];n=n+1;e=f[n];break;end;t(e[d],e[o]);n=n+1;e=f[n];break;end;else l=e[d];y=t[e[o]];t[l+1]=y;t[l]=y[e[a]];n=n+1;e=f[n];end else t[e[d]]=h[e[o]];n=n+1;e=f[n];end else if u>4 then if 4~=u then repeat if 6>u then l=e[d]t[l]=t[l]()n=n+1;e=f[n];break;end;t[e[d]]=t[e[o]][e[a]];until true;else l=e[d]t[l]=t[l]()n=n+1;e=f[n];end else if u>=0 then repeat if 3<u then l=e[d]t[l]=t[l](r(t,l+1,b))n=n+1;e=f[n];break;end;l=e[d]k,_=s(t[l](r(t,l+1,e[o])))b=_+l-1 c=0;for e=l,b do c=c+1;t[e]=k[c];end;n=n+1;e=f[n];until true;else l=e[d]k,_=s(t[l](r(t,l+1,e[o])))b=_+l-1 c=0;for e=l,b do c=c+1;t[e]=k[c];end;n=n+1;e=f[n];end end end end break;end;if t[e[d]]then n=n+1;else n=e[o];end;until true;else local l,y,_,k,c;for u=0,6 do if u<3 then if 0<u then if-2<u then for r=42,54 do if 2~=u then l=e[d];y=t[e[o]];t[l+1]=y;t[l]=y[e[a]];n=n+1;e=f[n];break;end;t(e[d],e[o]);n=n+1;e=f[n];break;end;else l=e[d];y=t[e[o]];t[l+1]=y;t[l]=y[e[a]];n=n+1;e=f[n];end else t[e[d]]=h[e[o]];n=n+1;e=f[n];end else if u>4 then if 4~=u then repeat if 6>u then l=e[d]t[l]=t[l]()n=n+1;e=f[n];break;end;t[e[d]]=t[e[o]][e[a]];until true;else l=e[d]t[l]=t[l]()n=n+1;e=f[n];end else if u>=0 then repeat if 3<u then l=e[d]t[l]=t[l](r(t,l+1,b))n=n+1;e=f[n];break;end;l=e[d]_,k=s(t[l](r(t,l+1,e[o])))b=k+l-1 c=0;for e=l,b do c=c+1;t[e]=_[c];end;n=n+1;e=f[n];until true;else l=e[d]_,k=s(t[l](r(t,l+1,e[o])))b=k+l-1 c=0;for e=l,b do c=c+1;t[e]=_[c];end;n=n+1;e=f[n];end end end end end end end else if 27<=u then if 28<u then if 29~=u then t[e[d]]=h[e[o]];else local n=e[d]t[n](r(t,n+1,e[o]))end else if u==28 then t[e[d]]=h[e[o]];else do return end;end end else if 24>=u then if 22<=u then repeat if u~=24 then t[e[d]]();n=n+1;e=f[n];t[e[d]]={};n=n+1;e=f[n];t[e[d]]=h[e[o]];n=n+1;e=f[n];t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];t[e[d]][e[o]]=t[e[a]];n=n+1;e=f[n];t[e[d]]=h[e[o]];break;end;local e=e[d]t[e](t[e+1])until true;else local e=e[d]t[e](t[e+1])end else if u~=24 then repeat if u>25 then local n=e[d]t[n]=t[n](r(t,n+1,e[o]))break;end;local e=e[d]t[e]=t[e]()until true;else local e=e[d]t[e]=t[e]()end end end end end else if 46<=u then if u>=54 then if u<58 then if u<=55 then if 50<u then for l=10,81 do if u<55 then if t[e[d]]then n=n+1;else n=e[o];end;break;end;n=e[o];break;end;else if t[e[d]]then n=n+1;else n=e[o];end;end else if u~=55 then repeat if u<57 then t[e[d]]=(e[o]~=0);break;end;t[e[d]]=p(g[e[o]],nil,h);until true;else t[e[d]]=(e[o]~=0);end end else if 60>u then if 56<u then repeat if u~=58 then if(t[e[d]]==e[a])then n=n+1;else n=e[o];end;break;end;local l,a,u,r,f;local n=0;while n>-1 do if 3>n then if 0>=n then l=e;else if n~=-3 then repeat if 2>n then a=d;break;end;u=o;until true;else u=o;end end else if n<5 then if 2<n then repeat if n<4 then r=l[u];break;end;f=l[a];until true;else f=l[a];end else if 4<n then repeat if n~=6 then t(f,r);break;end;n=-2;until true;else t(f,r);end end end n=n+1 end until true;else if(t[e[d]]==e[a])then n=n+1;else n=e[o];end;end else if 56~=u then for n=29,87 do if 60~=u then local l,r,f,u,a,b;local n=0;while n>-1 do if n<4 then if 1>=n then if n>=-3 then for t=44,92 do if 1~=n then l=e;break;end;r=d;break;end;else l=e;end else if 1<=n then for e=38,95 do if 2~=n then u=t;break;end;f=o;break;end;else f=o;end end else if 6>n then if 4~=n then b=l[r];else a=u[l[f]];end else if 2~=n then for e=45,81 do if n>6 then n=-2;break;end;t[b]=a;break;end;else n=-2;end end end n=n+1 end break;end;local l=e[d];local n=t[e[o]];t[l+1]=n;t[l]=n[e[a]];break;end;else local n=e[d];local l=t[e[o]];t[n+1]=l;t[n]=l[e[a]];end end end else if u<=49 then if u>47 then if 44<=u then repeat if u~=49 then local l;t[e[d]]=h[e[o]];n=n+1;e=f[n];t(e[d],e[o]);n=n+1;e=f[n];l=e[d]t[l](t[l+1])n=n+1;e=f[n];t[e[d]]=h[e[o]];n=n+1;e=f[n];t(e[d],e[o]);n=n+1;e=f[n];l=e[d]t[l](t[l+1])n=n+1;e=f[n];t[e[d]]=h[e[o]];break;end;local a,c,r,b,s,l,u;for l=0,6 do if 2<l then if l<=4 then if 4>l then t[e[d]]=h[e[o]];n=n+1;e=f[n];else l=0;while l>-1 do if 3>l then if 0>=l then a=e;else if l>=-3 then repeat if 1<l then r=o;break;end;c=d;until true;else r=o;end end else if l<=4 then if 2<l then for e=48,77 do if l~=3 then s=a[c];break;end;b=a[r];break;end;else b=a[r];end else if l~=1 then for e=25,87 do if 6~=l then t(s,b);break;end;l=-2;break;end;else t(s,b);end end end l=l+1 end n=n+1;e=f[n];end else if 1<l then repeat if 5<l then t[e[d]]=h[e[o]];break;end;u=e[d]t[u](t[u+1])n=n+1;e=f[n];until true;else t[e[d]]=h[e[o]];end end else if 0>=l then t[e[d]]=h[e[o]];n=n+1;e=f[n];else if 0~=l then for h=22,82 do if 2~=l then l=0;while l>-1 do if 3>l then if 1>l then a=e;else if l~=0 then for e=21,96 do if l>1 then r=o;break;end;c=d;break;end;else c=d;end end else if 5>l then if l>-1 then for e=29,73 do if l~=3 then s=a[c];break;end;b=a[r];break;end;else b=a[r];end else if 1~=l then for e=24,98 do if 5<l then l=-2;break;end;t(s,b);break;end;else l=-2;end end end l=l+1 end n=n+1;e=f[n];break;end;u=e[d]t[u](t[u+1])n=n+1;e=f[n];break;end;else u=e[d]t[u](t[u+1])n=n+1;e=f[n];end end end end until true;else local l;t[e[d]]=h[e[o]];n=n+1;e=f[n];t(e[d],e[o]);n=n+1;e=f[n];l=e[d]t[l](t[l+1])n=n+1;e=f[n];t[e[d]]=h[e[o]];n=n+1;e=f[n];t(e[d],e[o]);n=n+1;e=f[n];l=e[d]t[l](t[l+1])n=n+1;e=f[n];t[e[d]]=h[e[o]];end else if u~=44 then for n=29,86 do if u~=46 then local e=e[d]t[e]=t[e]()break;end;h[e[o]]=t[e[d]];break;end;else local e=e[d]t[e]=t[e]()end end else if 52<=u then if 49<=u then repeat if 53>u then t[e[d]][e[o]]=e[a];break;end;local u;for l=0,6 do if 2>=l then if l<=0 then t(e[d],e[o]);n=n+1;e=f[n];else if l>=-2 then for b=33,90 do if l>1 then t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];break;end;u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];break;end;else u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];end end else if 4>=l then if l>=1 then repeat if 3~=l then t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];break;end;t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];end else if 4<l then repeat if 5~=l then t[e[d]]=h[e[o]];break;end;t[e[d]][e[o]]=t[e[a]];n=n+1;e=f[n];until true;else t[e[d]][e[o]]=t[e[a]];n=n+1;e=f[n];end end end end until true;else t[e[d]][e[o]]=e[a];end else if u~=46 then for n=48,68 do if 51>u then t[e[d]][e[o]]=t[e[a]];break;end;t[e[d]]();break;end;else t[e[d]][e[o]]=t[e[a]];end end end end else if u>37 then if 42<=u then if u<44 then if 42==u then h[e[o]]=t[e[d]];else local l,y,k,_,c;for u=0,6 do if u>2 then if 5>u then if 1<u then repeat if u>3 then t[e[d]]=t[e[o]];n=n+1;e=f[n];break;end;t[e[d]]=h[e[o]];n=n+1;e=f[n];until true;else t[e[d]]=t[e[o]];n=n+1;e=f[n];end else if 1<u then for o=48,71 do if u>5 then l=e[d]t[l](r(t,l+1,b))break;end;l=e[d]k,_=s(t[l](t[l+1]))b=_+l-1 c=0;for e=l,b do c=c+1;t[e]=k[c];end;n=n+1;e=f[n];break;end;else l=e[d]t[l](r(t,l+1,b))end end else if u<=0 then t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];else if u~=2 then t[e[d]]=t[e[o]][e[a]];n=n+1;e=f[n];else l=e[d];y=t[e[o]];t[l+1]=y;t[l]=y[e[a]];n=n+1;e=f[n];end end end end end else if u<45 then local e=e[d]local l,n=s(t[e](t[e+1]))b=n+e-1 local n=0;for e=e,b do n=n+1;t[e]=l[n];end;else local n=e[d];local l=t[e[o]];t[n+1]=l;t[n]=l[e[a]];end end else if u>39 then if 41>u then local e=e[d]t[e](r(t,e+1,b))else t[e[d]]=t[e[o]][e[a]];end else if u>=37 then repeat if 38<u then local e=e[d]local l,n=s(t[e](t[e+1]))b=n+e-1 local n=0;for e=e,b do n=n+1;t[e]=l[n];end;break;end;local n=e[d]local l,e=s(t[n](r(t,n+1,e[o])))b=e+n-1 local e=0;for n=n,b do e=e+1;t[n]=l[e];end;until true;else local n=e[d]local l,e=s(t[n](r(t,n+1,e[o])))b=e+n-1 local e=0;for n=n,b do e=e+1;t[n]=l[e];end;end end end else if 33>=u then if 32>u then t[e[d]]=t[e[o]][e[a]];else if 30~=u then for l=29,65 do if u>32 then local b,y,s,h,c,l,u,k;l=0;while l>-1 do if l<3 then if l>0 then if l~=1 then s=o;else y=d;end else b=e;end else if 5>l then if l==3 then h=b[s];else c=b[y];end else if l>=4 then repeat if 5<l then l=-2;break;end;t(c,h);until true;else l=-2;end end end l=l+1 end n=n+1;e=f[n];u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];u=e[d];k=t[e[o]];t[u+1]=k;t[u]=k[e[a]];n=n+1;e=f[n];l=0;while l>-1 do if l>2 then if l>=5 then if 2<=l then repeat if 5~=l then l=-2;break;end;t(c,h);until true;else t(c,h);end else if l>1 then for e=44,78 do if 3<l then c=b[y];break;end;h=b[s];break;end;else h=b[s];end end else if 1>l then b=e;else if l~=-2 then repeat if 2~=l then y=d;break;end;s=o;until true;else s=o;end end end l=l+1 end n=n+1;e=f[n];u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];u=e[d];k=t[e[o]];t[u+1]=k;t[u]=k[e[a]];n=n+1;e=f[n];l=0;while l>-1 do if l>2 then if l>=5 then if 4~=l then for e=19,88 do if l<6 then t(c,h);break;end;l=-2;break;end;else t(c,h);end else if l~=-1 then for e=42,78 do if l~=4 then h=b[s];break;end;c=b[y];break;end;else h=b[s];end end else if l>0 then if l~=-1 then repeat if 1~=l then s=o;break;end;y=d;until true;else y=d;end else b=e;end end l=l+1 end break;end;if not t[e[d]]then n=n+1;else n=e[o];end;break;end;else local b,y,s,h,c,l,u,k;l=0;while l>-1 do if l<3 then if l>0 then if l~=1 then s=o;else y=d;end else b=e;end else if 5>l then if l==3 then h=b[s];else c=b[y];end else if l>=4 then repeat if 5<l then l=-2;break;end;t(c,h);until true;else l=-2;end end end l=l+1 end n=n+1;e=f[n];u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];u=e[d];k=t[e[o]];t[u+1]=k;t[u]=k[e[a]];n=n+1;e=f[n];l=0;while l>-1 do if l>2 then if l>=5 then if 2<=l then repeat if 5~=l then l=-2;break;end;t(c,h);until true;else t(c,h);end else if l>1 then for e=44,78 do if 3<l then c=b[y];break;end;h=b[s];break;end;else h=b[s];end end else if 1>l then b=e;else if l~=-2 then repeat if 2~=l then y=d;break;end;s=o;until true;else s=o;end end end l=l+1 end n=n+1;e=f[n];u=e[d]t[u]=t[u](r(t,u+1,e[o]))n=n+1;e=f[n];u=e[d];k=t[e[o]];t[u+1]=k;t[u]=k[e[a]];n=n+1;e=f[n];l=0;while l>-1 do if l>2 then if l>=5 then if 4~=l then for e=19,88 do if l<6 then t(c,h);break;end;l=-2;break;end;else t(c,h);end else if l~=-1 then for e=42,78 do if l~=4 then h=b[s];break;end;c=b[y];break;end;else h=b[s];end end else if l>0 then if l~=-1 then repeat if 1~=l then s=o;break;end;y=d;until true;else y=d;end else b=e;end end l=l+1 end end end else if 35>=u then if 34==u then do return end;else local l,r,u,f,a,b;local n=0;while n>-1 do if n<4 then if n>=2 then if n>=0 then for e=40,62 do if n~=2 then f=t;break;end;u=o;break;end;else f=t;end else if-1<n then for t=34,75 do if 1>n then l=e;break;end;r=d;break;end;else l=e;end end else if n<=5 then if 2~=n then for e=22,93 do if 4~=n then b=l[r];break;end;a=f[l[u]];break;end;else a=f[l[u]];end else if 5~=n then for e=20,64 do if 7~=n then t[b]=a;break;end;n=-2;break;end;else n=-2;end end end n=n+1 end end else if u==37 then local e=e[d]t[e]=t[e](r(t,e+1,b))else local l,f,a,r,u;local n=0;while n>-1 do if 2<n then if n<5 then if n>3 then u=l[f];else r=l[a];end else if 5~=n then n=-2;else t(u,r);end end else if n>0 then if 2==n then a=o;else f=d;end else l=e;end end n=n+1 end end end end end end end n=1+n;end;end;return ee end;local d=0xff;local a={};local o=(1);local l='';(function(n)local t=n local f=0x00 local e=0x00 t={(function(l)if f>0x1f then return l end f=f+1 e=(e+0xb62-l)%0xd return(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x36);end return true end)'iSyGD'and t[0x1](0xb2+l))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x54);end return true end)'MLczb'and t[0x3](l+0x1d8))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x56);end return true end)'GGmaM'and t[0x2](l+0x137))or l end),(function(u)if f>0x31 then return u end f=f+1 e=(e+0xf37-u)%0x29 return(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x8a);end return true end)'syKWf'and t[0x1](0x3df+u))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xba);l={l..'\58 a',l};a[o]=m();o=o+(1);l[1]='\58'..l[1];d[2]=0xff;end return true end)'KkwjH'and t[0x3](u+0x2d8))or(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xd9);l='\37';d={function()d()end};l=l..'\100\43';end return true end)'xPxby'and t[0x2](u+0x102))or u end),(function(u)if f>0x2a then return u end f=f+1 e=(e+0x5b2-u)%0x14 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x91);d[2]=(d[2]*(j(function()a()end,r(l))-j(d[1],r(l))))+1;a[o]={};d=d[2];o=o+d;end return true end)'OYdXg'and t[0x2](0x38d+u))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xc0);a[o]=ne();o=o+d;end return true end)'ndjRW'and t[0x1](u+0x2ff))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x0);end return true end)'osbzs'and t[0x3](u+0x207))or u end)}t[0x2](0x1134)end){};local e=p(r(a));return e(...);end return m((function()local n={}local e=0x01;local t;if l.AfQqisVF then t=l.AfQqisVF(m)else t=''end if l.mBG__EZn(t,l.MXVgOEHh)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(e,n,t,l,d,o)local o;if 4<=e then if e<6 then if e~=5 then local e=l;local l,u,f=d(2);do return function()local d,o,n,t=n(t,e(e,e),e(e,e)+3);e(4);return(t*l)+(n*u)+(o*f)+d;end;end;else local e=l;do return function()local n=n(t,e(e,e),e(e,e));e(1);return n;end;end;end else if e>6 then if e>5 then repeat if 8>e then do return setmetatable({},{['__\99\97\108\108']=function(e,d,t,l,n)if n then return e[n]elseif l then return e else e[d]=t end end})end break;end;do return t(e,nil,t);end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end end else do return d[t]end;end end else if e<=1 then if e==0 then do return n(1),n(4,d,l,t,n),n(5,d,l,t)end;else do return function(t,e,n)if n then local e=(t/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(t%(e+e)>=e)and 1 or 0;end;end;end;end else if e>-1 then repeat if e>2 then do return n(1),n(4,d,l,t,n),n(5,d,l,t)end;break;end;do return 16777216,65536,256 end;until true;else do return 16777216,65536,256 end;end end end end),...)
+local lib = {RainbowColorValue = 0, HueSelectionPosition = 0}
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local LocalPlayer = game:GetService("Players").LocalPlayer
+local Mouse = LocalPlayer:GetMouse()
+local PresetColor = Color3.fromRGB(44, 120, 224)
+local CloseBind = Enum.KeyCode.RightControl
+
+local knixhub = Instance.new("ScreenGui")
+knixhub.Name = "VR7 HUB"
+knixhub.Parent = game.CoreGui
+knixhub.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+coroutine.wrap(
+function()
+while wait() do
+lib.RainbowColorValue = lib.RainbowColorValue + 1 / 255
+lib.HueSelectionPosition = lib.HueSelectionPosition + 1
+
+if lib.RainbowColorValue >= 1 then
+lib.RainbowColorValue = 0
+end
+
+if lib.HueSelectionPosition == 80 then
+lib.HueSelectionPosition = 0
+end
+end
+end
+)()
+
+local function MakeDraggable(topbarobject, object)
+local Dragging = nil
+local DragInput = nil
+local DragStart = nil
+local StartPosition = nil
+
+local function Update(input)
+local Delta = input.Position - DragStart
+local pos =
+UDim2.new(
+StartPosition.X.Scale,
+StartPosition.X.Offset + Delta.X,
+StartPosition.Y.Scale,
+StartPosition.Y.Offset + Delta.Y
+)
+object.Position = pos
+end
+
+topbarobject.InputBegan:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch then
+Dragging = true
+DragStart = input.Position
+StartPosition = object.Position
+
+input.Changed:Connect(
+function()
+if input.UserInputState == Enum.UserInputState.End then
+Dragging = false
+end
+end
+)
+end
+end
+)
+
+topbarobject.InputChanged:Connect(
+function(input)
+if
+input.UserInputType == Enum.UserInputType.MouseMovement or
+input.UserInputType == Enum.UserInputType.Touch
+then
+DragInput = input
+end
+end
+)
+
+UserInputService.InputChanged:Connect(
+function(input)
+if input == DragInput and Dragging then
+Update(input)
+end
+end
+)
+end
+
+function lib:Window(text, preset, closebind)
+CloseBind = closebind or Enum.KeyCode.RightControl
+PresetColor = preset or Color3.fromRGB(44, 120, 224)
+fs = false
+local Main = Instance.new("Frame")
+local TabHold = Instance.new("Frame")
+local TabHoldLayout = Instance.new("UIListLayout")
+local Title = Instance.new("TextLabel")
+local TabFolder = Instance.new("Folder")
+local DragFrame = Instance.new("Frame")
+
+Main.Name = "Main"
+Main.Parent = knixhub
+Main.AnchorPoint = Vector2.new(0.5, 0.5)
+Main.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+Main.BorderSizePixel = 0
+Main.Position = UDim2.new(0.5, 0, 0.5, 0)
+Main.Size = UDim2.new(0, 0, 0, 0)
+Main.ClipsDescendants = true
+Main.Visible = false
+
+TabHold.Name = "TabHold"
+TabHold.Parent = Main
+TabHold.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TabHold.BackgroundTransparency = 1.000
+TabHold.Position = UDim2.new(0.0339285731, 0, 0.147335425, 0)
+TabHold.Size = UDim2.new(0, 107, 0, 254)
+
+TabHoldLayout.Name = "TabHoldLayout"
+TabHoldLayout.Parent = TabHold
+TabHoldLayout.SortOrder = Enum.SortOrder.LayoutOrder
+TabHoldLayout.Padding = UDim.new(0, 11)
+
+Title.Name = "Title"
+Title.Parent = Main
+Title.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Title.BackgroundTransparency = 1.000
+Title.Position = UDim2.new(0.0339285731, 0, 0.0564263314, 0)
+Title.Size = UDim2.new(0, 200, 0, 23)
+Title.Font = Enum.Font.GothamSemibold
+Title.Text = text
+Title.TextColor3 = Color3.fromRGB(68, 68, 68)
+Title.TextSize = 12.000
+Title.TextXAlignment = Enum.TextXAlignment.Left
+
+DragFrame.Name = "DragFrame"
+DragFrame.Parent = Main
+DragFrame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DragFrame.BackgroundTransparency = 1.000
+DragFrame.Size = UDim2.new(0, 560, 0, 41)
+
+local LoadFrame = Instance.new("Frame")
+local Barload = Instance.new("Frame")
+local BarloadCorner = Instance.new("UICorner")
+local LoadText = Instance.new("TextLabel")
+local LoadTitle = Instance.new("TextLabel")
+
+LoadFrame.Name = "LoadFrame"
+LoadFrame.Parent = knixhub
+LoadFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+LoadFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+LoadFrame.BorderSizePixel = 0
+LoadFrame.ClipsDescendants = true
+LoadFrame.Position = UDim2.new(0.499739647, 0, 0.499451756, 0)
+LoadFrame.Size = UDim2.new(0, 0, 0, 0)
+
+Barload.Name = "Barload"
+Barload.Parent = LoadFrame
+Barload.BackgroundColor3 = Color3.fromRGB(44, 120, 224)
+Barload.Position = UDim2.new(0.0436137058, 0, 0.776658118, 0)
+Barload.Size = UDim2.new(0, 0, 0, 2)
+Barload.BackgroundTransparency = 1
+
+BarloadCorner.Name = "BarloadCorner"
+BarloadCorner.Parent = Barload
+
+LoadText.Name = "LoadText"
+LoadText.Parent = LoadFrame
+LoadText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LoadText.BackgroundTransparency = 1.000
+LoadText.Position = UDim2.new(0.186915889, 0, 0.261682242, 0)
+LoadText.Size = UDim2.new(0, 200, 0, 50)
+LoadText.Font = Enum.Font.Gotham
+LoadText.TextColor3 = Color3.fromRGB(255, 255, 255)
+LoadText.TextSize = 18.000
+LoadText.TextTransparency = 1
+LoadText.Text = "Loading..."
+
+LoadTitle.Name = "LoadTitle"
+LoadTitle.Parent = LoadFrame
+LoadTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LoadTitle.BackgroundTransparency = 1.000
+LoadTitle.Position = UDim2.new(0.0432743616, 0, 0.1125011, 0)
+LoadTitle.Size = UDim2.new(0, 200, 0, 23)
+LoadTitle.Font = Enum.Font.GothamSemibold
+LoadTitle.Text = "KING HUB"
+LoadTitle.TextColor3 = Color3.fromRGB(68, 68, 68)
+LoadTitle.TextSize = 12.000
+LoadTitle.TextXAlignment = Enum.TextXAlignment.Left
+LoadTitle.TextTransparency = 1
+
+LoadFrame:TweenSize(UDim2.new(0, 321,0, 107), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+
+wait(.6)
+
+TweenService:Create(
+Barload,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+LoadText,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextTransparency = 0}
+):Play()
+TweenService:Create(
+LoadTitle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextTransparency = 0}
+):Play()
+
+wait(.6)
+
+Barload:TweenSize(UDim2.new(0, 50,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
+LoadText.Text = "انتظر..."
+
+wait(1)
+
+Barload:TweenSize(UDim2.new(0, 100,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
+LoadText.Text = "انتظر ..."
+
+wait(.5)
+
+Barload:TweenSize(UDim2.new(0, 150,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
+LoadText.Text = " 2ivsl السكربت من صنع  ."
+
+wait(.5)
+
+Barload:TweenSize(UDim2.new(0, 200,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
+LoadText.Text = "انتظر ."
+
+wait(.5)
+
+Barload:TweenSize(UDim2.new(0, 292,0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .3, true)
+LoadText.Text = "جاهز!"
+
+wait(2)
+
+
+TweenService:Create(
+Barload,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+LoadText,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextTransparency = 1}
+):Play()
+TweenService:Create(
+LoadTitle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextTransparency = 1}
+):Play()
+
+wait(.6)
+
+LoadFrame:TweenSize(UDim2.new(0, 0,0, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+
+wait(.5)
+Main.Visible = true
+
+Main:TweenSize(UDim2.new(0, 560, 0, 319), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+
+
+MakeDraggable(DragFrame, Main)
+
+local uitoggled = false
+UserInputService.InputBegan:Connect(
+function(io, p)
+if io.KeyCode == CloseBind then
+if uitoggled == false then
+Main:TweenSize(UDim2.new(0, 0, 0, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+uitoggled = true
+wait(.5)
+knixhub.Enabled = false
+else
+Main:TweenSize(UDim2.new(0, 560, 0, 319), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+knixhub.Enabled = true
+uitoggled = false
+end
+end
+end
+)
+
+TabFolder.Name = "TabFolder"
+TabFolder.Parent = Main
+
+function lib:ChangePresetColor(toch)
+PresetColor = toch
+end
+
+function lib:Notification(texttitle,textdesc,textbtn)
+
+local NotificationHold = Instance.new("TextButton")
+local NotificationFrame = Instance.new("Frame")
+local OkayBtn = Instance.new("TextButton")
+local OkayBtnCorner = Instance.new("UICorner")
+local OkayBtnTitle = Instance.new("TextLabel")
+local NotificationTitle = Instance.new("TextLabel")
+local NotificationDesc = Instance.new("TextLabel")
+
+
+NotificationHold.Name = "NotificationHold"
+NotificationHold.Parent = Main
+NotificationHold.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+NotificationHold.BackgroundTransparency = 1.000
+NotificationHold.BorderSizePixel = 0
+NotificationHold.Size = UDim2.new(0, 560, 0, 319)
+NotificationHold.AutoButtonColor = false
+NotificationHold.Font = Enum.Font.SourceSans
+NotificationHold.Text = ""
+NotificationHold.TextColor3 = Color3.fromRGB(0, 0, 0)
+NotificationHold.TextSize = 14.000
+
+TweenService:Create(
+NotificationHold,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0.7}
+):Play()
+wait(0.4)
+
+NotificationFrame.Name = "NotificationFrame"
+NotificationFrame.Parent = NotificationHold
+NotificationFrame.AnchorPoint = Vector2.new(0.5, 0.5)
+NotificationFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+NotificationFrame.BorderSizePixel = 0
+NotificationFrame.ClipsDescendants = true
+NotificationFrame.Position = UDim2.new(0.5, 0, 0.498432577, 0)
+
+NotificationFrame:TweenSize(UDim2.new(0, 164,0, 193), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+
+OkayBtn.Name = "OkayBtn"
+OkayBtn.Parent = NotificationFrame
+OkayBtn.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+OkayBtn.Position = UDim2.new(0.0609756112, 0, 0.720207274, 0)
+OkayBtn.Size = UDim2.new(0, 144, 0, 42)
+OkayBtn.AutoButtonColor = false
+OkayBtn.Font = Enum.Font.SourceSans
+OkayBtn.Text = ""
+OkayBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+OkayBtn.TextSize = 14.000
+
+OkayBtnCorner.CornerRadius = UDim.new(0, 5)
+OkayBtnCorner.Name = "OkayBtnCorner"
+OkayBtnCorner.Parent = OkayBtn
+
+OkayBtnTitle.Name = "OkayBtnTitle"
+OkayBtnTitle.Parent = OkayBtn
+OkayBtnTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+OkayBtnTitle.BackgroundTransparency = 1.000
+OkayBtnTitle.Position = UDim2.new(0.0763888881, 0, 0, 0)
+OkayBtnTitle.Size = UDim2.new(0, 181, 0, 42)
+OkayBtnTitle.Font = Enum.Font.Gotham
+OkayBtnTitle.Text = textbtn
+OkayBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+OkayBtnTitle.TextSize = 14.000
+OkayBtnTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+NotificationTitle.Name = "NotificationTitle"
+NotificationTitle.Parent = NotificationFrame
+NotificationTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NotificationTitle.BackgroundTransparency = 1.000
+NotificationTitle.Position = UDim2.new(0.0670731738, 0, 0.0829015523, 0)
+NotificationTitle.Size = UDim2.new(0, 143, 0, 26)
+NotificationTitle.Font = Enum.Font.Gotham
+NotificationTitle.Text = texttitle
+NotificationTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+NotificationTitle.TextSize = 18.000
+NotificationTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+NotificationDesc.Name = "NotificationDesc"
+NotificationDesc.Parent = NotificationFrame
+NotificationDesc.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NotificationDesc.BackgroundTransparency = 1.000
+NotificationDesc.Position = UDim2.new(0.0670000017, 0, 0.218999997, 0)
+NotificationDesc.Size = UDim2.new(0, 143, 0, 91)
+NotificationDesc.Font = Enum.Font.Gotham
+NotificationDesc.Text = textdesc
+NotificationDesc.TextColor3 = Color3.fromRGB(255, 255, 255)
+NotificationDesc.TextSize = 15.000
+NotificationDesc.TextWrapped = true
+NotificationDesc.TextXAlignment = Enum.TextXAlignment.Left
+NotificationDesc.TextYAlignment = Enum.TextYAlignment.Top
+
+OkayBtn.MouseEnter:Connect(function()
+TweenService:Create(
+OkayBtn,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(37,37,37)}
+):Play()
+end)
+
+OkayBtn.MouseLeave:Connect(function()
+TweenService:Create(
+OkayBtn,
+TweenInfo.new(.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(34, 34, 34)}
+):Play()
+end)
+
+OkayBtn.MouseButton1Click:Connect(function()
+NotificationFrame:TweenSize(UDim2.new(0, 0,0, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .6, true)
+
+wait(0.4)
+
+TweenService:Create(
+NotificationHold,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+
+wait(.3)
+
+NotificationHold:Destroy()
+end)
+end
+local tabhold = {}
+function tabhold:Tab(text)
+local TabBtn = Instance.new("TextButton")
+local TabTitle = Instance.new("TextLabel")
+local TabBtnIndicator = Instance.new("Frame")
+local TabBtnIndicatorCorner = Instance.new("UICorner")
+
+TabBtn.Name = "TabBtn"
+TabBtn.Parent = TabHold
+TabBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TabBtn.BackgroundTransparency = 1.000
+TabBtn.Size = UDim2.new(0, 107, 0, 21)
+TabBtn.Font = Enum.Font.SourceSans
+TabBtn.Text = ""
+TabBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+TabBtn.TextSize = 14.000
+
+TabTitle.Name = "TabTitle"
+TabTitle.Parent = TabBtn
+TabTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TabTitle.BackgroundTransparency = 1.000
+TabTitle.Size = UDim2.new(0, 107, 0, 21)
+TabTitle.Font = Enum.Font.Gotham
+TabTitle.Text = text
+TabTitle.TextColor3 = Color3.fromRGB(150, 150, 150)
+TabTitle.TextSize = 14.000
+TabTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+TabBtnIndicator.Name = "TabBtnIndicator"
+TabBtnIndicator.Parent = TabBtn
+TabBtnIndicator.BackgroundColor3 = PresetColor
+TabBtnIndicator.BorderSizePixel = 0
+TabBtnIndicator.Position = UDim2.new(0, 0, 1, 0)
+TabBtnIndicator.Size = UDim2.new(0, 0, 0, 2)
+
+TabBtnIndicatorCorner.Name = "TabBtnIndicatorCorner"
+TabBtnIndicatorCorner.Parent = TabBtnIndicator
+
+coroutine.wrap(
+function()
+while wait() do
+TabBtnIndicator.BackgroundColor3 = PresetColor      
+end
+end
+)()
+
+
+local Tab = Instance.new("ScrollingFrame")
+local TabLayout = Instance.new("UIListLayout")
+
+Tab.Name = "Tab"
+Tab.Parent = TabFolder
+Tab.Active = true
+Tab.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Tab.BackgroundTransparency = 1.000
+Tab.BorderSizePixel = 0
+Tab.Position = UDim2.new(0.31400001, 0, 0.147, 0)
+Tab.Size = UDim2.new(0, 373, 0, 254)
+Tab.CanvasSize = UDim2.new(0, 0, 0, 0)
+Tab.ScrollBarThickness = 3
+Tab.Visible = false
+
+TabLayout.Name = "TabLayout"
+TabLayout.Parent = Tab
+TabLayout.SortOrder = Enum.SortOrder.LayoutOrder
+TabLayout.Padding = UDim.new(0, 6)
+
+if fs == false then
+fs = true
+TabBtnIndicator.Size = UDim2.new(0, 13, 0, 2)
+TabTitle.TextColor3 = Color3.fromRGB(255,255,255)
+Tab.Visible = true
+end
+
+TabBtn.MouseButton1Click:Connect(function()
+for i, v in next, TabFolder:GetChildren() do
+if v.Name == "Tab" then
+v.Visible = false
+end
+Tab.Visible = true
+end
+for i, v in next, TabHold:GetChildren() do
+if v.Name == "TabBtn" then
+v.TabBtnIndicator:TweenSize(UDim2.new(0, 0, 0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+TabBtnIndicator:TweenSize(UDim2.new(0, 13, 0, 2), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+TweenService:Create(
+v.TabTitle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextColor3 = Color3.fromRGB(150,150,150)}
+):Play()
+TweenService:Create(
+TabTitle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{TextColor3 = Color3.fromRGB(255,255,255)}
+):Play()
+end
+end
+end)
+local tabcontent = {}
+function tabcontent:Button(text, callback)
+local Button = Instance.new("TextButton")
+local ButtonCorner = Instance.new("UICorner")
+local ButtonTitle = Instance.new("TextLabel")
+
+Button.Name = "Button"
+Button.Parent = Tab
+Button.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Button.Size = UDim2.new(0, 363, 0, 42)
+Button.AutoButtonColor = false
+Button.Font = Enum.Font.SourceSans
+Button.Text = ""
+Button.TextColor3 = Color3.fromRGB(0, 0, 0)
+Button.TextSize = 14.000
+
+ButtonCorner.CornerRadius = UDim.new(0, 5)
+ButtonCorner.Name = "ButtonCorner"
+ButtonCorner.Parent = Button
+
+ButtonTitle.Name = "ButtonTitle"
+ButtonTitle.Parent = Button
+ButtonTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ButtonTitle.BackgroundTransparency = 1.000
+ButtonTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+ButtonTitle.Size = UDim2.new(0, 187, 0, 42)
+ButtonTitle.Font = Enum.Font.Gotham
+ButtonTitle.Text = text
+ButtonTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+ButtonTitle.TextSize = 14.000
+ButtonTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+Button.MouseEnter:Connect(function()
+TweenService:Create(
+Button,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(37,37,37)}
+):Play()
+end)
+
+Button.MouseLeave:Connect(function()
+TweenService:Create(
+Button,
+TweenInfo.new(.2, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(34, 34, 34)}
+):Play()
+end)
+
+Button.MouseButton1Click:Connect(function()
+               pcall(callback)
+end)
+
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Toggle(text, default, callback)
+local toggled = false
+
+local Toggle = Instance.new("TextButton")
+local ToggleCorner = Instance.new("UICorner")
+local ToggleTitle = Instance.new("TextLabel")
+local FrameToggle1 = Instance.new("Frame")
+local FrameToggle1Corner = Instance.new("UICorner")
+local FrameToggle2 = Instance.new("Frame")
+local FrameToggle2Corner = Instance.new("UICorner")
+local FrameToggle3 = Instance.new("Frame")
+local FrameToggle3Corner = Instance.new("UICorner")
+local FrameToggleCircle = Instance.new("Frame")
+local FrameToggleCircleCorner = Instance.new("UICorner")
+
+
+Toggle.Name = "Toggle"
+Toggle.Parent = Tab
+Toggle.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Toggle.Position = UDim2.new(0.215625003, 0, 0.446271926, 0)
+Toggle.Size = UDim2.new(0, 363, 0, 42)
+Toggle.AutoButtonColor = false
+Toggle.Font = Enum.Font.SourceSans
+Toggle.Text = ""
+Toggle.TextColor3 = Color3.fromRGB(0, 0, 0)
+Toggle.TextSize = 14.000
+
+ToggleCorner.CornerRadius = UDim.new(0, 5)
+ToggleCorner.Name = "ToggleCorner"
+ToggleCorner.Parent = Toggle
+
+ToggleTitle.Name = "ToggleTitle"
+ToggleTitle.Parent = Toggle
+ToggleTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ToggleTitle.BackgroundTransparency = 1.000
+ToggleTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+ToggleTitle.Size = UDim2.new(0, 187, 0, 42)
+ToggleTitle.Font = Enum.Font.Gotham
+ToggleTitle.Text = text
+ToggleTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+ToggleTitle.TextSize = 14.000
+ToggleTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+FrameToggle1.Name = "FrameToggle1"
+FrameToggle1.Parent = Toggle
+FrameToggle1.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+FrameToggle1.Position = UDim2.new(0.859504104, 0, 0.285714298, 0)
+FrameToggle1.Size = UDim2.new(0, 37, 0, 18)
+
+FrameToggle1Corner.Name = "FrameToggle1Corner"
+FrameToggle1Corner.Parent = FrameToggle1
+
+FrameToggle2.Name = "FrameToggle2"
+FrameToggle2.Parent = FrameToggle1
+FrameToggle2.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+FrameToggle2.Position = UDim2.new(0.0489999987, 0, 0.0930000022, 0)
+FrameToggle2.Size = UDim2.new(0, 33, 0, 14)
+
+FrameToggle2Corner.Name = "FrameToggle2Corner"
+FrameToggle2Corner.Parent = FrameToggle2
+
+FrameToggle3.Name = "FrameToggle3"
+FrameToggle3.Parent = FrameToggle1
+FrameToggle3.BackgroundColor3 = PresetColor
+FrameToggle3.BackgroundTransparency = 1.000
+FrameToggle3.Size = UDim2.new(0, 37, 0, 18)
+
+FrameToggle3Corner.Name = "FrameToggle3Corner"
+FrameToggle3Corner.Parent = FrameToggle3
+
+FrameToggleCircle.Name = "FrameToggleCircle"
+FrameToggleCircle.Parent = FrameToggle1
+FrameToggleCircle.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+FrameToggleCircle.Position = UDim2.new(0.127000004, 0, 0.222000003, 0)
+FrameToggleCircle.Size = UDim2.new(0, 10, 0, 10)
+
+FrameToggleCircleCorner.Name = "FrameToggleCircleCorner"
+FrameToggleCircleCorner.Parent = FrameToggleCircle
+
+coroutine.wrap(
+function()
+while wait() do
+FrameToggle3.BackgroundColor3 = PresetColor  
+end
+end
+)()
+
+
+
+
+Toggle.MouseButton1Click:Connect(function()
+if toggled == false then
+TweenService:Create(
+Toggle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(37,37,37)}
+):Play()
+TweenService:Create(
+FrameToggle1,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameToggle2,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameToggle3,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameToggleCircle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(255,255,255)}
+):Play()
+FrameToggleCircle:TweenPosition(UDim2.new(0.587, 0, 0.222000003, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+else
+TweenService:Create(
+Toggle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(34,34,34)}
+):Play()
+TweenService:Create(
+FrameToggle1,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameToggle2,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameToggle3,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameToggleCircle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(50,50,50)}
+):Play()
+FrameToggleCircle:TweenPosition(UDim2.new(0.127000004, 0, 0.222000003, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+end
+toggled = not toggled
+pcall(callback, toggled)
+end)
+
+if default == true then
+TweenService:Create(
+Toggle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(37,37,37)}
+):Play()
+TweenService:Create(
+FrameToggle1,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameToggle2,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameToggle3,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameToggleCircle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(255,255,255)}
+):Play()
+FrameToggleCircle:TweenPosition(UDim2.new(0.587, 0, 0.222000003, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+toggled = not toggled
+end
+
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Slider(text, min,max,start,callback)
+local dragging = false
+local Slider = Instance.new("TextButton")
+local SliderCorner = Instance.new("UICorner")
+local SliderTitle = Instance.new("TextLabel")
+local SliderValue = Instance.new("TextLabel")
+local SlideFrame = Instance.new("Frame")
+local CurrentValueFrame = Instance.new("Frame")
+local SlideCircle = Instance.new("ImageButton")
+
+Slider.Name = "Slider"
+Slider.Parent = Tab
+Slider.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Slider.Position = UDim2.new(-0.48035714, 0, -0.570532918, 0)
+Slider.Size = UDim2.new(0, 363, 0, 60)
+Slider.AutoButtonColor = false
+Slider.Font = Enum.Font.SourceSans
+Slider.Text = ""
+Slider.TextColor3 = Color3.fromRGB(0, 0, 0)
+Slider.TextSize = 14.000
+
+SliderCorner.CornerRadius = UDim.new(0, 5)
+SliderCorner.Name = "SliderCorner"
+SliderCorner.Parent = Slider
+
+SliderTitle.Name = "SliderTitle"
+SliderTitle.Parent = Slider
+SliderTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SliderTitle.BackgroundTransparency = 1.000
+SliderTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+SliderTitle.Size = UDim2.new(0, 187, 0, 42)
+SliderTitle.Font = Enum.Font.Gotham
+SliderTitle.Text = text
+SliderTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+SliderTitle.TextSize = 14.000
+SliderTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+SliderValue.Name = "SliderValue"
+SliderValue.Parent = Slider
+SliderValue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SliderValue.BackgroundTransparency = 1.000
+SliderValue.Position = UDim2.new(0.0358126722, 0, 0, 0)
+SliderValue.Size = UDim2.new(0, 335, 0, 42)
+SliderValue.Font = Enum.Font.Gotham
+SliderValue.Text = tostring(start and math.floor((start / max) * (max - min) + min) or 0)
+SliderValue.TextColor3 = Color3.fromRGB(255, 255, 255)
+SliderValue.TextSize = 14.000
+SliderValue.TextXAlignment = Enum.TextXAlignment.Right
+
+SlideFrame.Name = "SlideFrame"
+SlideFrame.Parent = Slider
+SlideFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+SlideFrame.BorderSizePixel = 0
+SlideFrame.Position = UDim2.new(0.0342647657, 0, 0.686091602, 0)
+SlideFrame.Size = UDim2.new(0, 335, 0, 3)
+
+CurrentValueFrame.Name = "CurrentValueFrame"
+CurrentValueFrame.Parent = SlideFrame
+CurrentValueFrame.BackgroundColor3 = PresetColor
+CurrentValueFrame.BorderSizePixel = 0
+CurrentValueFrame.Size = UDim2.new((start or 0) / max, 0, 0, 3)
+
+SlideCircle.Name = "SlideCircle"
+SlideCircle.Parent = SlideFrame
+SlideCircle.BackgroundColor3 = PresetColor
+SlideCircle.BackgroundTransparency = 1.000
+SlideCircle.Position = UDim2.new((start or 0)/max, -6,-1.30499995, 0)
+SlideCircle.Size = UDim2.new(0, 11, 0, 11)
+SlideCircle.Image = "rbxassetid://3570695787"
+SlideCircle.ImageColor3 = PresetColor
+
+coroutine.wrap(
+function()
+while wait() do
+CurrentValueFrame.BackgroundColor3 = PresetColor
+SlideCircle.ImageColor3 = PresetColor
+end
+end
+)()
+
+local function move(input)
+local pos =
+UDim2.new(
+math.clamp((input.Position.X - SlideFrame.AbsolutePosition.X) / SlideFrame.AbsoluteSize.X, 0, 1),
+-6,
+-1.30499995,
+0
+)
+local pos1 =
+UDim2.new(
+math.clamp((input.Position.X - SlideFrame.AbsolutePosition.X) / SlideFrame.AbsoluteSize.X, 0, 1),
+0,
+0,
+3
+)
+CurrentValueFrame:TweenSize(pos1, "Out", "Sine", 0.1, true)
+SlideCircle:TweenPosition(pos, "Out", "Sine", 0.1, true)
+local value = math.floor(((pos.X.Scale * max) / max) * (max - min) + min)
+SliderValue.Text = tostring(value)
+pcall(callback, value)
+end
+SlideCircle.InputBegan:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+dragging = true
+end
+end
+)
+SlideCircle.InputEnded:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+dragging = false
+end
+end
+)
+game:GetService("UserInputService").InputChanged:Connect(
+function(input)
+if dragging and input.UserInputType == Enum.UserInputType.MouseMovement then
+move(input)
+end
+end
+)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Dropdown(text, list, callback)
+local droptog = false
+local framesize = 0
+local itemcount = 0
+
+local Dropdown = Instance.new("Frame")
+local DropdownCorner = Instance.new("UICorner")
+local DropdownBtn = Instance.new("TextButton")
+local DropdownTitle = Instance.new("TextLabel")
+local ArrowImg = Instance.new("ImageLabel")
+local DropItemHolder = Instance.new("ScrollingFrame")
+local DropLayout = Instance.new("UIListLayout")
+
+Dropdown.Name = "Dropdown"
+Dropdown.Parent = Tab
+Dropdown.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Dropdown.ClipsDescendants = true
+Dropdown.Position = UDim2.new(-0.541071415, 0, -0.532915354, 0)
+Dropdown.Size = UDim2.new(0, 363, 0, 42)
+
+DropdownCorner.CornerRadius = UDim.new(0, 5)
+DropdownCorner.Name = "DropdownCorner"
+DropdownCorner.Parent = Dropdown
+
+DropdownBtn.Name = "DropdownBtn"
+DropdownBtn.Parent = Dropdown
+DropdownBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DropdownBtn.BackgroundTransparency = 1.000
+DropdownBtn.Size = UDim2.new(0, 363, 0, 42)
+DropdownBtn.Font = Enum.Font.SourceSans
+DropdownBtn.Text = ""
+DropdownBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+DropdownBtn.TextSize = 14.000
+
+DropdownTitle.Name = "DropdownTitle"
+DropdownTitle.Parent = Dropdown
+DropdownTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DropdownTitle.BackgroundTransparency = 1.000
+DropdownTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+DropdownTitle.Size = UDim2.new(0, 187, 0, 42)
+DropdownTitle.Font = Enum.Font.Gotham
+DropdownTitle.Text = text
+DropdownTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+DropdownTitle.TextSize = 14.000
+DropdownTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+ArrowImg.Name = "ArrowImg"
+ArrowImg.Parent = DropdownTitle
+ArrowImg.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ArrowImg.BackgroundTransparency = 1.000
+ArrowImg.Position = UDim2.new(1.65240645, 0, 0.190476194, 0)
+ArrowImg.Size = UDim2.new(0, 26, 0, 26)
+ArrowImg.Image = "http://www.roblox.com/asset/?id=6034818375"
+
+DropItemHolder.Name = "DropItemHolder"
+DropItemHolder.Parent = DropdownTitle
+DropItemHolder.Active = true
+DropItemHolder.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DropItemHolder.BackgroundTransparency = 1.000
+DropItemHolder.BorderSizePixel = 0
+DropItemHolder.Position = UDim2.new(-0.00400000019, 0, 1.04999995, 0)
+DropItemHolder.Size = UDim2.new(0, 342, 0, 0)
+DropItemHolder.CanvasSize = UDim2.new(0, 0, 0, 0)
+DropItemHolder.ScrollBarThickness = 3
+
+DropLayout.Name = "DropLayout"
+DropLayout.Parent = DropItemHolder
+DropLayout.SortOrder = Enum.SortOrder.LayoutOrder
+
+DropdownBtn.MouseButton1Click:Connect(function()
+if droptog == false then
+Dropdown:TweenSize(UDim2.new(0, 363, 0, 55 + framesize), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+TweenService:Create(
+ArrowImg,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{Rotation = 270}
+):Play()
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+else
+Dropdown:TweenSize(UDim2.new(0, 363, 0, 42), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+TweenService:Create(
+ArrowImg,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{Rotation = 0}
+):Play()
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+droptog = not droptog
+end)
+
+for i,v in next, list do
+itemcount = itemcount + 1
+if itemcount <= 3 then
+framesize = framesize + 26
+DropItemHolder.Size = UDim2.new(0, 342, 0, framesize)
+end
+local Item = Instance.new("TextButton")
+local ItemCorner = Instance.new("UICorner")
+
+Item.Name = "Item"
+Item.Parent = DropItemHolder
+Item.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Item.ClipsDescendants = true
+Item.Size = UDim2.new(0, 335, 0, 25)
+Item.AutoButtonColor = false
+Item.Font = Enum.Font.Gotham
+Item.Text = v
+Item.TextColor3 = Color3.fromRGB(255, 255, 255)
+Item.TextSize = 15.000
+
+ItemCorner.CornerRadius = UDim.new(0, 4)
+ItemCorner.Name = "ItemCorner"
+ItemCorner.Parent = Item
+
+Item.MouseEnter:Connect(function()
+TweenService:Create(
+Item,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(37,37,37)}
+):Play()
+end)
+
+Item.MouseLeave:Connect(function()
+TweenService:Create(
+Item,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(34, 34, 34)}
+):Play()
+end)
+
+Item.MouseButton1Click:Connect(function()
+droptog = not droptog
+DropdownTitle.Text = text .. " - " .. v
+pcall(callback, v)
+Dropdown:TweenSize(UDim2.new(0, 363, 0, 42), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+TweenService:Create(
+ArrowImg,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{Rotation = 0}
+):Play()
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end)
+
+DropItemHolder.CanvasSize = UDim2.new(0, 0, 0, DropLayout.AbsoluteContentSize.Y)
+end
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Colorpicker(text, preset, callback)
+local ColorPickerToggled = false
+local OldToggleColor = Color3.fromRGB(0, 0, 0)
+local OldColor = Color3.fromRGB(0, 0, 0)
+local OldColorSelectionPosition = nil
+local OldHueSelectionPosition = nil
+local ColorH, ColorS, ColorV = 1, 1, 1
+local RainbowColorPicker = false
+local ColorPickerInput = nil
+local ColorInput = nil
+local HueInput = nil
+
+local Colorpicker = Instance.new("Frame")
+local ColorpickerCorner = Instance.new("UICorner")
+local ColorpickerTitle = Instance.new("TextLabel")
+local BoxColor = Instance.new("Frame")
+local BoxColorCorner = Instance.new("UICorner")
+local ConfirmBtn = Instance.new("TextButton")
+local ConfirmBtnCorner = Instance.new("UICorner")
+local ConfirmBtnTitle = Instance.new("TextLabel")
+local ColorpickerBtn = Instance.new("TextButton")
+local RainbowToggle = Instance.new("TextButton")
+local RainbowToggleCorner = Instance.new("UICorner")
+local RainbowToggleTitle = Instance.new("TextLabel")
+local FrameRainbowToggle1 = Instance.new("Frame")
+local FrameRainbowToggle1Corner = Instance.new("UICorner")
+local FrameRainbowToggle2 = Instance.new("Frame")
+local FrameRainbowToggle2_2 = Instance.new("UICorner")
+local FrameRainbowToggle3 = Instance.new("Frame")
+local FrameToggle3 = Instance.new("UICorner")
+local FrameRainbowToggleCircle = Instance.new("Frame")
+local FrameRainbowToggleCircleCorner = Instance.new("UICorner")
+local Color = Instance.new("ImageLabel")
+local ColorCorner = Instance.new("UICorner")
+local ColorSelection = Instance.new("ImageLabel")
+local Hue = Instance.new("ImageLabel")
+local HueCorner = Instance.new("UICorner")
+local HueGradient = Instance.new("UIGradient")
+local HueSelection = Instance.new("ImageLabel")
+
+
+Colorpicker.Name = "Colorpicker"
+Colorpicker.Parent = Tab
+Colorpicker.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Colorpicker.ClipsDescendants = true
+Colorpicker.Position = UDim2.new(-0.541071415, 0, -0.532915354, 0)
+Colorpicker.Size = UDim2.new(0, 363, 0, 42)
+
+ColorpickerCorner.CornerRadius = UDim.new(0, 5)
+ColorpickerCorner.Name = "ColorpickerCorner"
+ColorpickerCorner.Parent = Colorpicker
+
+ColorpickerTitle.Name = "ColorpickerTitle"
+ColorpickerTitle.Parent = Colorpicker
+ColorpickerTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ColorpickerTitle.BackgroundTransparency = 1.000
+ColorpickerTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+ColorpickerTitle.Size = UDim2.new(0, 187, 0, 42)
+ColorpickerTitle.Font = Enum.Font.Gotham
+ColorpickerTitle.Text = text
+ColorpickerTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+ColorpickerTitle.TextSize = 14.000
+ColorpickerTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+BoxColor.Name = "BoxColor"
+BoxColor.Parent = ColorpickerTitle
+BoxColor.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
+BoxColor.Position = UDim2.new(1.60427809, 0, 0.214285716, 0)
+BoxColor.Size = UDim2.new(0, 41, 0, 23)
+
+BoxColorCorner.CornerRadius = UDim.new(0, 5)
+BoxColorCorner.Name = "BoxColorCorner"
+BoxColorCorner.Parent = BoxColor
+
+ConfirmBtn.Name = "ConfirmBtn"
+ConfirmBtn.Parent = ColorpickerTitle
+ConfirmBtn.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+ConfirmBtn.Position = UDim2.new(1.25814295, 0, 1.09037197, 0)
+ConfirmBtn.Size = UDim2.new(0, 105, 0, 32)
+ConfirmBtn.AutoButtonColor = false
+ConfirmBtn.Font = Enum.Font.SourceSans
+ConfirmBtn.Text = ""
+ConfirmBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+ConfirmBtn.TextSize = 14.000
+
+ConfirmBtnCorner.CornerRadius = UDim.new(0, 5)
+ConfirmBtnCorner.Name = "ConfirmBtnCorner"
+ConfirmBtnCorner.Parent = ConfirmBtn
+
+ConfirmBtnTitle.Name = "ConfirmBtnTitle"
+ConfirmBtnTitle.Parent = ConfirmBtn
+ConfirmBtnTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ConfirmBtnTitle.BackgroundTransparency = 1.000
+ConfirmBtnTitle.Size = UDim2.new(0, 33, 0, 32)
+ConfirmBtnTitle.Font = Enum.Font.Gotham
+ConfirmBtnTitle.Text = "Confirm"
+ConfirmBtnTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+ConfirmBtnTitle.TextSize = 14.000
+ConfirmBtnTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+ColorpickerBtn.Name = "ColorpickerBtn"
+ColorpickerBtn.Parent = ColorpickerTitle
+ColorpickerBtn.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ColorpickerBtn.BackgroundTransparency = 1.000
+ColorpickerBtn.Size = UDim2.new(0, 363, 0, 42)
+ColorpickerBtn.Font = Enum.Font.SourceSans
+ColorpickerBtn.Text = ""
+ColorpickerBtn.TextColor3 = Color3.fromRGB(0, 0, 0)
+ColorpickerBtn.TextSize = 14.000
+
+RainbowToggle.Name = "RainbowToggle"
+RainbowToggle.Parent = ColorpickerTitle
+RainbowToggle.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+RainbowToggle.Position = UDim2.new(1.26349044, 0, 2.12684202, 0)
+RainbowToggle.Size = UDim2.new(0, 104, 0, 32)
+RainbowToggle.AutoButtonColor = false
+RainbowToggle.Font = Enum.Font.SourceSans
+RainbowToggle.Text = ""
+RainbowToggle.TextColor3 = Color3.fromRGB(0, 0, 0)
+RainbowToggle.TextSize = 14.000
+
+RainbowToggleCorner.CornerRadius = UDim.new(0, 5)
+RainbowToggleCorner.Name = "RainbowToggleCorner"
+RainbowToggleCorner.Parent = RainbowToggle
+
+RainbowToggleTitle.Name = "RainbowToggleTitle"
+RainbowToggleTitle.Parent = RainbowToggle
+RainbowToggleTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+RainbowToggleTitle.BackgroundTransparency = 1.000
+RainbowToggleTitle.Size = UDim2.new(0, 33, 0, 32)
+RainbowToggleTitle.Font = Enum.Font.Gotham
+RainbowToggleTitle.Text = "Rainbow"
+RainbowToggleTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+RainbowToggleTitle.TextSize = 14.000
+RainbowToggleTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+FrameRainbowToggle1.Name = "FrameRainbowToggle1"
+FrameRainbowToggle1.Parent = RainbowToggle
+FrameRainbowToggle1.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+FrameRainbowToggle1.Position = UDim2.new(0.649999976, 0, 0.186000004, 0)
+FrameRainbowToggle1.Size = UDim2.new(0, 37, 0, 18)
+
+FrameRainbowToggle1Corner.Name = "FrameRainbowToggle1Corner"
+FrameRainbowToggle1Corner.Parent = FrameRainbowToggle1
+
+FrameRainbowToggle2.Name = "FrameRainbowToggle2"
+FrameRainbowToggle2.Parent = FrameRainbowToggle1
+FrameRainbowToggle2.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+FrameRainbowToggle2.Position = UDim2.new(0.0590000004, 0, 0.112999998, 0)
+FrameRainbowToggle2.Size = UDim2.new(0, 33, 0, 14)
+
+FrameRainbowToggle2_2.Name = "FrameRainbowToggle2"
+FrameRainbowToggle2_2.Parent = FrameRainbowToggle2
+
+FrameRainbowToggle3.Name = "FrameRainbowToggle3"
+FrameRainbowToggle3.Parent = FrameRainbowToggle1
+FrameRainbowToggle3.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+FrameRainbowToggle3.BackgroundTransparency = 1.000
+FrameRainbowToggle3.Size = UDim2.new(0, 37, 0, 18)
+
+FrameToggle3.Name = "FrameToggle3"
+FrameToggle3.Parent = FrameRainbowToggle3
+
+FrameRainbowToggleCircle.Name = "FrameRainbowToggleCircle"
+FrameRainbowToggleCircle.Parent = FrameRainbowToggle1
+FrameRainbowToggleCircle.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+FrameRainbowToggleCircle.Position = UDim2.new(0.127000004, 0, 0.222000003, 0)
+FrameRainbowToggleCircle.Size = UDim2.new(0, 10, 0, 10)
+
+FrameRainbowToggleCircleCorner.Name = "FrameRainbowToggleCircleCorner"
+FrameRainbowToggleCircleCorner.Parent = FrameRainbowToggleCircle
+
+Color.Name = "Color"
+Color.Parent = ColorpickerTitle
+Color.BackgroundColor3 = Color3.fromRGB(255, 0, 4)
+Color.Position = UDim2.new(0, 0, 0, 42)
+Color.Size = UDim2.new(0, 194, 0, 80)
+Color.ZIndex = 10
+Color.Image = "rbxassetid://4155801252"
+
+ColorCorner.CornerRadius = UDim.new(0, 3)
+ColorCorner.Name = "ColorCorner"
+ColorCorner.Parent = Color
+
+ColorSelection.Name = "ColorSelection"
+ColorSelection.Parent = Color
+ColorSelection.AnchorPoint = Vector2.new(0.5, 0.5)
+ColorSelection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ColorSelection.BackgroundTransparency = 1.000
+ColorSelection.Position = UDim2.new(preset and select(3, Color3.toHSV(preset)))
+ColorSelection.Size = UDim2.new(0, 18, 0, 18)
+ColorSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+ColorSelection.ScaleType = Enum.ScaleType.Fit
+ColorSelection.Visible = false
+
+Hue.Name = "Hue"
+Hue.Parent = ColorpickerTitle
+Hue.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Hue.Position = UDim2.new(0, 202, 0, 42)
+Hue.Size = UDim2.new(0, 25, 0, 80)
+
+HueCorner.CornerRadius = UDim.new(0, 3)
+HueCorner.Name = "HueCorner"
+HueCorner.Parent = Hue
+
+HueGradient.Color = ColorSequence.new {
+ColorSequenceKeypoint.new(0.00, Color3.fromRGB(255, 0, 4)),
+ColorSequenceKeypoint.new(0.20, Color3.fromRGB(234, 255, 0)),
+ColorSequenceKeypoint.new(0.40, Color3.fromRGB(21, 255, 0)),
+ColorSequenceKeypoint.new(0.60, Color3.fromRGB(0, 255, 255)),
+ColorSequenceKeypoint.new(0.80, Color3.fromRGB(0, 17, 255)),
+ColorSequenceKeypoint.new(0.90, Color3.fromRGB(255, 0, 251)),
+ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 0, 4))
+} HueGradient.Rotation = 270
+HueGradient.Name = "HueGradient"
+HueGradient.Parent = Hue
+
+HueSelection.Name = "HueSelection"
+HueSelection.Parent = Hue
+HueSelection.AnchorPoint = Vector2.new(0.5, 0.5)
+HueSelection.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HueSelection.BackgroundTransparency = 1.000
+HueSelection.Position = UDim2.new(0.48, 0, 1 - select(1, Color3.toHSV(preset)))
+HueSelection.Size = UDim2.new(0, 18, 0, 18)
+HueSelection.Image = "http://www.roblox.com/asset/?id=4805639000"
+HueSelection.Visible = false
+
+coroutine.wrap(
+function()
+while wait() do
+FrameRainbowToggle3.BackgroundColor3 = PresetColor  
+end
+end
+)()
+
+ColorpickerBtn.MouseButton1Click:Connect(function()
+if ColorPickerToggled == false then
+ColorSelection.Visible = true
+HueSelection.Visible = true
+Colorpicker:TweenSize(UDim2.new(0, 363, 0, 132), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+
+else
+ColorSelection.Visible = false
+HueSelection.Visible = false
+Colorpicker:TweenSize(UDim2.new(0, 363, 0, 42), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+ColorPickerToggled = not ColorPickerToggled
+end)
+
+
+local function UpdateColorPicker(nope)
+BoxColor.BackgroundColor3 = Color3.fromHSV(ColorH, ColorS, ColorV)
+Color.BackgroundColor3 = Color3.fromHSV(ColorH, 1, 1)
+
+pcall(callback, BoxColor.BackgroundColor3)
+end
+
+ColorH =
+1 -
+(math.clamp(HueSelection.AbsolutePosition.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+Hue.AbsoluteSize.Y)
+ColorS =
+(math.clamp(ColorSelection.AbsolutePosition.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) /
+Color.AbsoluteSize.X)
+ColorV =
+1 -
+(math.clamp(ColorSelection.AbsolutePosition.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) /
+Color.AbsoluteSize.Y)
+
+BoxColor.BackgroundColor3 = preset
+Color.BackgroundColor3 = preset
+pcall(callback, BoxColor.BackgroundColor3)
+
+Color.InputBegan:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+if RainbowColorPicker then
+return
+end
+
+if ColorInput then
+ColorInput:Disconnect()
+end
+
+ColorInput =
+RunService.RenderStepped:Connect(
+function()
+local ColorX =
+(math.clamp(Mouse.X - Color.AbsolutePosition.X, 0, Color.AbsoluteSize.X) /
+Color.AbsoluteSize.X)
+local ColorY =
+(math.clamp(Mouse.Y - Color.AbsolutePosition.Y, 0, Color.AbsoluteSize.Y) /
+Color.AbsoluteSize.Y)
+
+ColorSelection.Position = UDim2.new(ColorX, 0, ColorY, 0)
+ColorS = ColorX
+ColorV = 1 - ColorY
+
+UpdateColorPicker(true)
+end
+)
+end
+end
+)
+
+Color.InputEnded:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+if ColorInput then
+ColorInput:Disconnect()
+end
+end
+end
+)
+
+Hue.InputBegan:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+if RainbowColorPicker then
+return
+end
+
+if HueInput then
+HueInput:Disconnect()
+end
+
+HueInput =
+RunService.RenderStepped:Connect(
+function()
+local HueY =
+(math.clamp(Mouse.Y - Hue.AbsolutePosition.Y, 0, Hue.AbsoluteSize.Y) /
+Hue.AbsoluteSize.Y)
+
+HueSelection.Position = UDim2.new(0.48, 0, HueY, 0)
+ColorH = 1 - HueY
+
+UpdateColorPicker(true)
+end
+)
+end
+end
+)
+
+Hue.InputEnded:Connect(
+function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1 then
+if HueInput then
+HueInput:Disconnect()
+end
+end
+end
+)
+
+RainbowToggle.MouseButton1Down:Connect(
+function()
+RainbowColorPicker = not RainbowColorPicker
+
+if ColorInput then
+ColorInput:Disconnect()
+end
+
+if HueInput then
+HueInput:Disconnect()
+end
+
+if RainbowColorPicker then
+TweenService:Create(
+FrameRainbowToggle1,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameRainbowToggle2,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameRainbowToggle3,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameRainbowToggleCircle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(255,255,255)}
+):Play()
+FrameRainbowToggleCircle:TweenPosition(UDim2.new(0.587, 0, 0.222000003, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+
+OldToggleColor = BoxColor.BackgroundColor3
+OldColor = Color.BackgroundColor3
+OldColorSelectionPosition = ColorSelection.Position
+OldHueSelectionPosition = HueSelection.Position
+
+while RainbowColorPicker do
+BoxColor.BackgroundColor3 = Color3.fromHSV(lib.RainbowColorValue, 1, 1)
+Color.BackgroundColor3 = Color3.fromHSV(lib.RainbowColorValue, 1, 1)
+
+ColorSelection.Position = UDim2.new(1, 0, 0, 0)
+HueSelection.Position = UDim2.new(0.48, 0, 0, lib.HueSelectionPosition)
+
+pcall(callback, BoxColor.BackgroundColor3)
+wait()
+end
+elseif not RainbowColorPicker then
+TweenService:Create(
+FrameRainbowToggle1,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameRainbowToggle2,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 0}
+):Play()
+TweenService:Create(
+FrameRainbowToggle3,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundTransparency = 1}
+):Play()
+TweenService:Create(
+FrameRainbowToggleCircle,
+TweenInfo.new(.3, Enum.EasingStyle.Quad, Enum.EasingDirection.Out),
+{BackgroundColor3 = Color3.fromRGB(50,50,50)}
+):Play()
+FrameRainbowToggleCircle:TweenPosition(UDim2.new(0.127000004, 0, 0.222000003, 0), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+
+BoxColor.BackgroundColor3 = OldToggleColor
+Color.BackgroundColor3 = OldColor
+
+ColorSelection.Position = OldColorSelectionPosition
+HueSelection.Position = OldHueSelectionPosition
+
+pcall(callback, BoxColor.BackgroundColor3)
+end
+end
+)
+
+ConfirmBtn.MouseButton1Click:Connect(
+function()
+ColorSelection.Visible = false
+HueSelection.Visible = false
+Colorpicker:TweenSize(UDim2.new(0, 363, 0, 42), Enum.EasingDirection.Out, Enum.EasingStyle.Quart, .2, true)
+wait(.2)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Label(text)
+local Label = Instance.new("TextButton")
+local LabelCorner = Instance.new("UICorner")
+local LabelTitle = Instance.new("TextLabel")
+
+Label.Name = "Button"
+Label.Parent = Tab
+Label.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Label.Size = UDim2.new(0, 363, 0, 42)
+Label.AutoButtonColor = false
+Label.Font = Enum.Font.SourceSans
+Label.Text = ""
+Label.TextColor3 = Color3.fromRGB(0, 0, 0)
+Label.TextSize = 14.000
+
+LabelCorner.CornerRadius = UDim.new(0, 5)
+LabelCorner.Name = "ButtonCorner"
+LabelCorner.Parent = Label
+
+LabelTitle.Name = "ButtonTitle"
+LabelTitle.Parent =Label
+LabelTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LabelTitle.BackgroundTransparency = 1.000
+LabelTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+LabelTitle.Size = UDim2.new(0, 187, 0, 42)
+LabelTitle.Font = Enum.Font.Gotham
+LabelTitle.Text = text
+LabelTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+LabelTitle.TextSize = 14.000
+LabelTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Textbox(text,disapper, callback)
+local Textbox = Instance.new("Frame")
+local TextboxCorner = Instance.new("UICorner")
+local TextboxTitle = Instance.new("TextLabel")
+local TextboxFrame = Instance.new("Frame")
+local TextboxFrameCorner = Instance.new("UICorner")
+local TextBox = Instance.new("TextBox")
+
+Textbox.Name = "Textbox"
+Textbox.Parent = Tab
+Textbox.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Textbox.ClipsDescendants = true
+Textbox.Position = UDim2.new(-0.541071415, 0, -0.532915354, 0)
+Textbox.Size = UDim2.new(0, 363, 0, 42)
+
+TextboxCorner.CornerRadius = UDim.new(0, 5)
+TextboxCorner.Name = "TextboxCorner"
+TextboxCorner.Parent = Textbox
+
+TextboxTitle.Name = "TextboxTitle"
+TextboxTitle.Parent = Textbox
+TextboxTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextboxTitle.BackgroundTransparency = 1.000
+TextboxTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+TextboxTitle.Size = UDim2.new(0, 187, 0, 42)
+TextboxTitle.Font = Enum.Font.Gotham
+TextboxTitle.Text = text
+TextboxTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextboxTitle.TextSize = 14.000
+TextboxTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+TextboxFrame.Name = "TextboxFrame"
+TextboxFrame.Parent = TextboxTitle
+TextboxFrame.BackgroundColor3 = Color3.fromRGB(37, 37, 37)
+TextboxFrame.Position = UDim2.new(1.28877008, 0, 0.214285716, 0)
+TextboxFrame.Size = UDim2.new(0, 100, 0, 23)
+
+TextboxFrameCorner.CornerRadius = UDim.new(0, 5)
+TextboxFrameCorner.Name = "TextboxFrameCorner"
+TextboxFrameCorner.Parent = TextboxFrame
+
+TextBox.Parent = TextboxFrame
+TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.BackgroundTransparency = 1.000
+TextBox.Size = UDim2.new(0, 100, 0, 23)
+TextBox.Font = Enum.Font.Gotham
+TextBox.Text = ""
+TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextBox.TextSize = 14.000
+
+TextBox.FocusLost:Connect(
+function(ep)
+if ep then
+if #TextBox.Text > 0 then
+pcall(callback, TextBox.Text)
+if disapper then
+TextBox.Text = ""
+end
+end
+end
+end
+)
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+end
+function tabcontent:Bind(text, keypreset, callback)
+local binding = false
+local Key = keypreset.Name
+local Bind = Instance.new("TextButton")
+local BindCorner = Instance.new("UICorner")
+local BindTitle = Instance.new("TextLabel")
+local BindText = Instance.new("TextLabel")
+
+Bind.Name = "Bind"
+Bind.Parent = Tab
+Bind.BackgroundColor3 = Color3.fromRGB(34, 34, 34)
+Bind.Size = UDim2.new(0, 363, 0, 42)
+Bind.AutoButtonColor = false
+Bind.Font = Enum.Font.SourceSans
+Bind.Text = ""
+Bind.TextColor3 = Color3.fromRGB(0, 0, 0)
+Bind.TextSize = 14.000
+
+BindCorner.CornerRadius = UDim.new(0, 5)
+BindCorner.Name = "BindCorner"
+BindCorner.Parent = Bind
+
+BindTitle.Name = "BindTitle"
+BindTitle.Parent = Bind
+BindTitle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BindTitle.BackgroundTransparency = 1.000
+BindTitle.Position = UDim2.new(0.0358126722, 0, 0, 0)
+BindTitle.Size = UDim2.new(0, 187, 0, 42)
+BindTitle.Font = Enum.Font.Gotham
+BindTitle.Text = text
+BindTitle.TextColor3 = Color3.fromRGB(255, 255, 255)
+BindTitle.TextSize = 14.000
+BindTitle.TextXAlignment = Enum.TextXAlignment.Left
+
+BindText.Name = "BindText"
+BindText.Parent = Bind
+BindText.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BindText.BackgroundTransparency = 1.000
+BindText.Position = UDim2.new(0.0358126722, 0, 0, 0)
+BindText.Size = UDim2.new(0, 337, 0, 42)
+BindText.Font = Enum.Font.Gotham
+BindText.Text = Key
+BindText.TextColor3 = Color3.fromRGB(255, 255, 255)
+BindText.TextSize = 14.000
+BindText.TextXAlignment = Enum.TextXAlignment.Right
+
+Tab.CanvasSize = UDim2.new(0, 0, 0, TabLayout.AbsoluteContentSize.Y)
+
+Bind.MouseButton1Click:Connect(function()
+BindText.Text = "..."
+binding = true
+local inputwait = game:GetService("UserInputService").InputBegan:wait()
+if inputwait.KeyCode.Name ~= "Unknown" then
+BindText.Text = inputwait .KeyCode.Name
+Key = inputwait.KeyCode.Name
+binding = false
+else
+binding = false
+end
+end)
+
+game:GetService("UserInputService").InputBegan:connect(
+function(current, pressed)
+if not pressed then
+if current.KeyCode.Name == Key and binding == false then
+pcall(callback)
+end
+end
+end
+)
+end
+return tabcontent
+end
+return tabhold
+end
+return lib
