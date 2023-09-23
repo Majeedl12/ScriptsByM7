@@ -171,7 +171,7 @@ LoadText.Font = Enum.Font.Gotham
 LoadText.TextColor3 = Color3.fromRGB(255, 255, 255)
 LoadText.TextSize = 18.000
 LoadText.TextTransparency = 1
-LoadText.Text = "Loading..."
+LoadText.Text = "السكربت قيد التحميل..."
 
 LoadTitle.Name = "LoadTitle"
 LoadTitle.Parent = LoadFrame
