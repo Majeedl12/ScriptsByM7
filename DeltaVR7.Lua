@@ -1729,7 +1729,7 @@ G2L["103"] = Instance.new("Frame", G2L["102"]);
 G2L["103"]["BackgroundColor3"] = Color3.fromRGB(13, 13, 13);
 G2L["103"]["Size"] = UDim2.new(0.8807588219642639, 0, 0.06504495441913605, 0);
 G2L["103"]["Position"] = UDim2.new(0.0572899729013443, 0, 0.05452737957239151, 0);
-G2L["103"]["Name"] = [[WalkSpeed]];
+G2L["103"]["Name"] = [[السرعه]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.WalkSpeed.UICorner
 G2L["104"] = Instance.new("UICorner", G2L["103"]);
@@ -1742,7 +1742,7 @@ G2L["105"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 G2L["105"]["TextSize"] = 12;
 G2L["105"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["105"]["Size"] = UDim2.new(0.20389226078987122, 0, 0.37544015049934387, 0);
-G2L["105"]["Text"] = [[Walk Speed]];
+G2L["105"]["Text"] = [[السرعه]];
 G2L["105"]["BackgroundTransparency"] = 1;
 G2L["105"]["Position"] = UDim2.new(-0.0010769229847937822, 0, 0.27152714133262634, 0);
 
@@ -1768,8 +1768,8 @@ G2L["108"]["TextSize"] = 12;
 G2L["108"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["108"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["108"]["Size"] = UDim2.new(0.14156842231750488, 0, 0.6646651029586792, 0);
-G2L["108"]["Name"] = [[Set]];
-G2L["108"]["Text"] = [[Set]];
+G2L["108"]["Name"] = [[تحديث]];
+G2L["108"]["Text"] = [[تحديث]];
 G2L["108"]["Position"] = UDim2.new(0.7242141366004944, 0, 0.17700013518333435, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.WalkSpeed.Set.UICorner
@@ -1793,7 +1793,7 @@ G2L["10c"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 G2L["10c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["10c"]["Size"] = UDim2.new(0.8820000290870667, 0, 0.06599999964237213, 0);
 G2L["10c"]["Name"] = [[InviteLink]];
-G2L["10c"]["Text"] = [[    Copy Discord Invite]];
+G2L["10c"]["Text"] = [[نسخ رابط سيرفر الديسكورد]];
 G2L["10c"]["Position"] = UDim2.new(0.05668863654136658, 0, 0.35930559039115906, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.InviteLink.UICorner
@@ -1825,8 +1825,8 @@ G2L["111"]["TextSize"] = 12;
 G2L["111"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["111"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["111"]["Size"] = UDim2.new(0.8820000290870667, 0, 0.06599999964237213, 0);
-G2L["111"]["Name"] = [[Credits]];
-G2L["111"]["Text"] = [[    Show Credits]];
+G2L["111"]["Name"] = [[الحقوق]];
+G2L["111"]["Text"] = [[    اظهار الحقوق]];
 G2L["111"]["Position"] = UDim2.new(0.05668863654136658, 0, 0.4601701498031616, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.Credits.UICorner
@@ -1859,8 +1859,8 @@ G2L["116"]["TextSize"] = 12;
 G2L["116"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["116"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["116"]["Size"] = UDim2.new(0.8820000290870667, 0, 0.06599999964237213, 0);
-G2L["116"]["Name"] = [[UnlockFPS]];
-G2L["116"]["Text"] = [[    Unlock FPS]];
+G2L["116"]["Name"] = [[فتح الفريمات]];
+G2L["116"]["Text"] = [[    فتح الفريمات]];
 G2L["116"]["Position"] = UDim2.new(0.05668863654136658, 0, 0.5523891448974609, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.UnlockFPS.UICorner
@@ -1892,7 +1892,7 @@ G2L["11c"] = Instance.new("Frame", G2L["102"]);
 G2L["11c"]["BackgroundColor3"] = Color3.fromRGB(13, 13, 13);
 G2L["11c"]["Size"] = UDim2.new(0.8807588219642639, 0, 0.06504495441913605, 0);
 G2L["11c"]["Position"] = UDim2.new(0.0572899729013443, 0, 0.15539193153381348, 0);
-G2L["11c"]["Name"] = [[JumpPower]];
+G2L["11c"]["Name"] = [[النط]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.JumpPower.UICorner
 G2L["11d"] = Instance.new("UICorner", G2L["11c"]);
@@ -1905,7 +1905,7 @@ G2L["11e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 G2L["11e"]["TextSize"] = 12;
 G2L["11e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["11e"]["Size"] = UDim2.new(0.20389226078987122, 0, 0.37544015049934387, 0);
-G2L["11e"]["Text"] = [[Jump Power]];
+G2L["11e"]["Text"] = [[النط]];
 G2L["11e"]["BackgroundTransparency"] = 1;
 G2L["11e"]["Position"] = UDim2.new(-0.0010769229847937822, 0, 0.27152714133262634, 0);
 
@@ -1931,8 +1931,8 @@ G2L["121"]["TextSize"] = 12;
 G2L["121"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["121"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["121"]["Size"] = UDim2.new(0.14156842231750488, 0, 0.6646651029586792, 0);
-G2L["121"]["Name"] = [[Set]];
-G2L["121"]["Text"] = [[Set]];
+G2L["121"]["Name"] = [[تحديث]];
+G2L["121"]["Text"] = [[تحديث]];
 G2L["121"]["Position"] = UDim2.new(0.7242141366004944, 0, 0.17700013518333435, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.JumpPower.Set.UICorner
@@ -1952,7 +1952,7 @@ G2L["125"] = Instance.new("Frame", G2L["102"]);
 G2L["125"]["BackgroundColor3"] = Color3.fromRGB(13, 13, 13);
 G2L["125"]["Size"] = UDim2.new(0.8807588219642639, 0, 0.06504495441913605, 0);
 G2L["125"]["Position"] = UDim2.new(0.05700000002980232, 0, 0.257999986410141, 0);
-G2L["125"]["Name"] = [[Gravity]];
+G2L["125"]["Name"] = [[جاذبيه]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.Gravity.UICorner
 G2L["126"] = Instance.new("UICorner", G2L["125"]);
@@ -1965,7 +1965,7 @@ G2L["127"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json
 G2L["127"]["TextSize"] = 12;
 G2L["127"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["127"]["Size"] = UDim2.new(0.14991775155067444, 0, 0.37544018030166626, 0);
-G2L["127"]["Text"] = [[Gravity]];
+G2L["127"]["Text"] = [[جاذبيه]];
 G2L["127"]["BackgroundTransparency"] = 1;
 G2L["127"]["Position"] = UDim2.new(-0.0010769232176244259, 0, 0.27152714133262634, 0);
 
@@ -1991,8 +1991,8 @@ G2L["12a"]["TextSize"] = 12;
 G2L["12a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["12a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["12a"]["Size"] = UDim2.new(0.14156842231750488, 0, 0.6646651029586792, 0);
-G2L["12a"]["Name"] = [[Set]];
-G2L["12a"]["Text"] = [[Set]];
+G2L["12a"]["Name"] = [[تحديث]];
+G2L["12a"]["Text"] = [[تحديث]];
 G2L["12a"]["Position"] = UDim2.new(0.7242141366004944, 0, 0.17700013518333435, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.Gravity.Set.UICorner
@@ -2015,8 +2015,8 @@ G2L["12e"]["TextSize"] = 12;
 G2L["12e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["12e"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["12e"]["Size"] = UDim2.new(0.14156842231750488, 0, 0.6646651029586792, 0);
-G2L["12e"]["Name"] = [[Reset]];
-G2L["12e"]["Text"] = [[Reset]];
+G2L["12e"]["Name"] = [[ريسيت]];
+G2L["12e"]["Text"] = [[ريسيت]];
 G2L["12e"]["Position"] = UDim2.new(0.5699999928474426, 0, 0.1770000010728836, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Settings.Gravity.Reset.UICorner
@@ -4986,11 +4986,11 @@ local function C_110()
 	local script = G2L["110"];
 	local btn = script.Parent
 	btn.MouseButton1Click:Connect(function()
-		setclipboard("discord.gg/deltaex")
+		setclipboard("https://discord.com/invite/4WhS4tG4")
         game.StarterGui:SetCore("SendNotification", 
     {
-    Title = "Delta Android";
-    Text = "Copied the discord invite to you clipboard";
+    Title = "Delta العرب";
+    Text = "تم نسخ الرابط بنجاح";
     Duration = 5;
     })
 
@@ -5004,8 +5004,8 @@ local function C_115()
 	btn.MouseButton1Click:Connect(function()
 		game.StarterGui:SetCore("SendNotification", 
     {
-    Title = "Delta Android";
-    Text = "Made by ShowerheadFD & Lxnny/DeltaTeam";
+    Title = "Delta العرب";
+    Text = "من صنع  VR7";
     Duration = 5;
     })
 
