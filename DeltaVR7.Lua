@@ -450,7 +450,7 @@ G2L["48"]["Size"] = UDim2.new(0.9585282802581787, 0, 0.0768190324306488, 0);
 G2L["48"]["BorderColor3"] = Color3.fromRGB(15, 15, 17);
 G2L["48"]["Position"] = UDim2.new(0.0236122515052557, 0, 0.019721297547221184, 0);
 G2L["48"]["Visible"] = false;
-G2L["48"]["Name"] = [[TitleScript]];
+G2L["48"]["Name"] = [[اسم السكربت]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.TitleScript.MainTextBox
 G2L["49"] = Instance.new("TextBox", G2L["48"]);
@@ -495,7 +495,7 @@ G2L["4e"] = Instance.new("Frame", G2L["4c"]);
 G2L["4e"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["4e"]["Size"] = UDim2.new(0.19932666420936584, 0, 0.0753278136253357, 0);
 G2L["4e"]["Position"] = UDim2.new(0.7811665534973145, 0, 0.8959466814994812, 0);
-G2L["4e"]["Name"] = [[GoBack]];
+G2L["4e"]["Name"] = [[رجوع]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.ScriptTextbox.GoBack.TextButton
 G2L["4f"] = Instance.new("TextButton", G2L["4e"]);
@@ -505,7 +505,7 @@ G2L["4f"]["TextSize"] = 12;
 G2L["4f"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["4f"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["4f"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["4f"]["Text"] = [[Go Back]];
+G2L["4f"]["Text"] = [[رجوع]];
 G2L["4f"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.ScriptTextbox.GoBack.TextButton.UICorner
@@ -537,7 +537,7 @@ G2L["55"] = Instance.new("Frame", G2L["4c"]);
 G2L["55"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["55"]["Size"] = UDim2.new(0.25788477063179016, 0, 0.0753278136253357, 0);
 G2L["55"]["Position"] = UDim2.new(0.48794427514076233, 0, 0.8959466814994812, 0);
-G2L["55"]["Name"] = [[AddScript]];
+G2L["55"]["Name"] = [[اضافه سكربت]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.ScriptTextbox.AddScript.TextButton
 G2L["56"] = Instance.new("TextButton", G2L["55"]);
@@ -547,7 +547,7 @@ G2L["56"]["TextSize"] = 12;
 G2L["56"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["56"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["56"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["56"]["Text"] = [[Add Script]];
+G2L["56"]["Text"] = [[اضافه سكربت]];
 G2L["56"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.ScriptTextbox.AddScript.TextButton.UICorner
@@ -859,7 +859,7 @@ G2L["81"]["BackgroundTransparency"] = 0.33329999446868896;
 G2L["81"]["Size"] = UDim2.new(0.542340874671936, 0, 0.7513126134872437, 0);
 G2L["81"]["BorderColor3"] = Color3.fromRGB(15, 15, 17);
 G2L["81"]["Position"] = UDim2.new(-0.002550613135099411, 0, 0.110756054520607, 0);
-G2L["81"]["Name"] = [[TitleScript]];
+G2L["81"]["Name"] = [[اسم السكربت]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.Scripts.LIST.TitleScript.UICorner
 G2L["82"] = Instance.new("UICorner", G2L["81"]);
@@ -886,7 +886,7 @@ G2L["85"] = Instance.new("Frame", G2L["80"]);
 G2L["85"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["85"]["Size"] = UDim2.new(0.20491595566272736, 0, 0.7415456175804138, 0);
 G2L["85"]["Position"] = UDim2.new(0.5597181916236877, 0, 0.1205231249332428, 0);
-G2L["85"]["Name"] = [[Execute]];
+G2L["85"]["Name"] = [[تشغيل]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.Scripts.LIST.Execute.TextButton
 G2L["86"] = Instance.new("TextButton", G2L["85"]);
@@ -896,7 +896,7 @@ G2L["86"]["TextSize"] = 12;
 G2L["86"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["86"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["86"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["86"]["Text"] = [[Execute]];
+G2L["86"]["Text"] = [[تشغيل]];
 G2L["86"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.Scripts.LIST.Execute.TextButton.UICorner
@@ -920,7 +920,7 @@ G2L["8a"] = Instance.new("Frame", G2L["80"]);
 G2L["8a"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["8a"]["Size"] = UDim2.new(0.20491595566272736, 0, 0.7415456175804138, 0);
 G2L["8a"]["Position"] = UDim2.new(0.7835553884506226, 0, 0.1205231249332428, 0);
-G2L["8a"]["Name"] = [[Delete]];
+G2L["8a"]["Name"] = [[حذف]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.Scripts.LIST.Delete.TextButton
 G2L["8b"] = Instance.new("TextButton", G2L["8a"]);
@@ -930,7 +930,7 @@ G2L["8b"]["TextSize"] = 12;
 G2L["8b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["8b"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["8b"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["8b"]["Text"] = [[Delete]];
+G2L["8b"]["Text"] = [[حذف]];
 G2L["8b"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.Scripts.LIST.Delete.TextButton.UICorner
@@ -958,7 +958,7 @@ G2L["90"] = Instance.new("Frame", G2L["47"]);
 G2L["90"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["90"]["Size"] = UDim2.new(0.19932666420936584, 0, 0.06368814408779144, 0);
 G2L["90"]["Position"] = UDim2.new(0.7670302391052246, 0, 0.017075123265385628, 0);
-G2L["90"]["Name"] = [[AddScript1]];
+G2L["90"]["Name"] = [[اضافه سكربت 1]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.AddScript1.TextButton
 G2L["91"] = Instance.new("TextButton", G2L["90"]);
@@ -968,7 +968,7 @@ G2L["91"]["TextSize"] = 12;
 G2L["91"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["91"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["91"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["91"]["Text"] = [[Add Script]];
+G2L["91"]["Text"] = [[اضافه سكربت]];
 G2L["91"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.MakeScript.AddScript1.TextButton.UICorner
@@ -1018,7 +1018,7 @@ G2L["99"] = Instance.new("Frame", G2L["97"]);
 G2L["99"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["99"]["Size"] = UDim2.new(0.2710147798061371, 0, 0.0753278136253357, 0);
 G2L["99"]["Position"] = UDim2.new(0.032752323895692825, 0, 0.8925735354423523, 0);
-G2L["99"]["Name"] = [[Execute]];
+G2L["99"]["Name"] = [[تشغيل]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.Execute.TextButton
 G2L["9a"] = Instance.new("TextButton", G2L["99"]);
@@ -1028,7 +1028,7 @@ G2L["9a"]["TextSize"] = 12;
 G2L["9a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["9a"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["9a"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["9a"]["Text"] = [[Execute Text]];
+G2L["9a"]["Text"] = [[تشغيل]];
 G2L["9a"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.Execute.TextButton.UICorner
@@ -1060,7 +1060,7 @@ G2L["a0"] = Instance.new("Frame", G2L["97"]);
 G2L["a0"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["a0"]["Size"] = UDim2.new(0.19932666420936584, 0, 0.0753278136253357, 0);
 G2L["a0"]["Position"] = UDim2.new(0.32880187034606934, 0, 0.8925735354423523, 0);
-G2L["a0"]["Name"] = [[Clear]];
+G2L["a0"]["Name"] = [[مسح]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.Clear.TextButton
 G2L["a1"] = Instance.new("TextButton", G2L["a0"]);
@@ -1070,7 +1070,7 @@ G2L["a1"]["TextSize"] = 12;
 G2L["a1"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["a1"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["a1"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["a1"]["Text"] = [[Clear]];
+G2L["a1"]["Text"] = [[مسح]];
 G2L["a1"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.Clear.TextButton.UICorner
@@ -1102,7 +1102,7 @@ G2L["a7"] = Instance.new("Frame", G2L["97"]);
 G2L["a7"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["a7"]["Size"] = UDim2.new(0.3159777522087097, 0, 0.0753278136253357, 0);
 G2L["a7"]["Position"] = UDim2.new(0.5501444339752197, 0, 0.8892003893852234, 0);
-G2L["a7"]["Name"] = [[ExecuteClipboard]];
+G2L["a7"]["Name"] = [[Clipboard تشغيل السكربت ]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.ExecuteClipboard.TextButton
 G2L["a8"] = Instance.new("TextButton", G2L["a7"]);
@@ -1112,7 +1112,7 @@ G2L["a8"]["TextSize"] = 12;
 G2L["a8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["a8"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["a8"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["a8"]["Text"] = [[Execute Clipboard]];
+G2L["a8"]["Text"] = [[تشغيل السكربت Clipboard]];
 G2L["a8"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Home.ScriptTextbox.ExecuteClipboard.TextButton.UICorner
@@ -1371,7 +1371,7 @@ G2L["cd"]["BackgroundTransparency"] = 0.33329999446868896;
 G2L["cd"]["Size"] = UDim2.new(0.7389585375785828, 0, 0.0768190324306488, 0);
 G2L["cd"]["BorderColor3"] = Color3.fromRGB(15, 15, 17);
 G2L["cd"]["Position"] = UDim2.new(0.02895212545990944, 0, 0.04599999263882637, 0);
-G2L["cd"]["Name"] = [[TitleScript]];
+G2L["cd"]["Name"] = [[اسم السكربت]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.TitleScript.MainTextBox
 G2L["ce"] = Instance.new("TextBox", G2L["cd"]);
@@ -1382,7 +1382,7 @@ G2L["ce"]["BackgroundColor3"] = Color3.fromRGB(16, 16, 16);
 G2L["ce"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["ce"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["ce"]["BackgroundTransparency"] = 0.800000011920929;
-G2L["ce"]["PlaceholderText"] = [[Enter your search...]];
+G2L["ce"]["PlaceholderText"] = [[أدخل بحثك  ...]];
 G2L["ce"]["Size"] = UDim2.new(0.9665210843086243, 0, 0.8322147727012634, 0);
 G2L["ce"]["BorderColor3"] = Color3.fromRGB(15, 15, 17);
 G2L["ce"]["Text"] = [[]];
@@ -1480,7 +1480,7 @@ G2L["db"] = Instance.new("Frame", G2L["d5"]);
 G2L["db"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["db"]["Size"] = UDim2.new(0.18748296797275543, 0, 0.09933300316333771, 0);
 G2L["db"]["Position"] = UDim2.new(0.7772064805030823, 0, 0.0343393050134182, 0);
-G2L["db"]["Name"] = [[Execute]];
+G2L["db"]["Name"] = [[تشغيل]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Execute.TextButton
 G2L["dc"] = Instance.new("TextButton", G2L["db"]);
@@ -1490,7 +1490,7 @@ G2L["dc"]["TextSize"] = 12;
 G2L["dc"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["dc"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["dc"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["dc"]["Text"] = [[Execute]];
+G2L["dc"]["Text"] = [[تشغيل]];
 G2L["dc"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Execute.TextButton.UICorner
@@ -1518,7 +1518,7 @@ G2L["e1"] = Instance.new("Frame", G2L["d5"]);
 G2L["e1"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["e1"]["Size"] = UDim2.new(0.18748296797275543, 0, 0.09933300316333771, 0);
 G2L["e1"]["Position"] = UDim2.new(0.7772064805030823, 0, 0.1766234040260315, 0);
-G2L["e1"]["Name"] = [[Save]];
+G2L["e1"]["Name"] = [[حفظ]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Save.TextButton
 G2L["e2"] = Instance.new("TextButton", G2L["e1"]);
@@ -1528,7 +1528,7 @@ G2L["e2"]["TextSize"] = 12;
 G2L["e2"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["e2"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["e2"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["e2"]["Text"] = [[Save]];
+G2L["e2"]["Text"] = [[حفظ]];
 G2L["e2"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Save.TextButton.UICorner
@@ -1556,7 +1556,7 @@ G2L["e7"] = Instance.new("Frame", G2L["d5"]);
 G2L["e7"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["e7"]["Size"] = UDim2.new(0.18748296797275543, 0, 0.09933300316333771, 0);
 G2L["e7"]["Position"] = UDim2.new(0.7772064805030823, 0, 0.307320237159729, 0);
-G2L["e7"]["Name"] = [[LoadText]];
+G2L["e7"]["Name"] = [[تشغيل]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.LoadText.TextButton
 G2L["e8"] = Instance.new("TextButton", G2L["e7"]);
@@ -1566,7 +1566,7 @@ G2L["e8"]["TextSize"] = 12;
 G2L["e8"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["e8"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["e8"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["e8"]["Text"] = [[Load Text]];
+G2L["e8"]["Text"] = [[تشغيل]];
 G2L["e8"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.LoadText.TextButton.UICorner
@@ -1594,7 +1594,7 @@ G2L["ed"] = Instance.new("Frame", G2L["d5"]);
 G2L["ed"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["ed"]["Size"] = UDim2.new(0.18748296797275543, 0, 0.09933300316333771, 0);
 G2L["ed"]["Position"] = UDim2.new(0.7772064805030823, 0, 0.449604332447052, 0);
-G2L["ed"]["Name"] = [[Copy]];
+G2L["ed"]["Name"] = [[نسخ]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Copy.TextButton
 G2L["ee"] = Instance.new("TextButton", G2L["ed"]);
@@ -1604,7 +1604,7 @@ G2L["ee"]["TextSize"] = 12;
 G2L["ee"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["ee"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["ee"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["ee"]["Text"] = [[Copy]];
+G2L["ee"]["Text"] = [[نسخ]];
 G2L["ee"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Scripts.Folder.LIST.Copy.TextButton.UICorner
@@ -1674,7 +1674,7 @@ G2L["fa"] = Instance.new("Frame", G2L["cc"]);
 G2L["fa"]["BackgroundColor3"] = Color3.fromRGB(137, 126, 251);
 G2L["fa"]["Size"] = UDim2.new(0.1818244606256485, 0, 0.05602366104722023, 0);
 G2L["fa"]["Position"] = UDim2.new(0.7872427105903625, 0, 0.05453909933567047, 0);
-G2L["fa"]["Name"] = [[Search]];
+G2L["fa"]["Name"] = [[بحث]];
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Search.TextButton
 G2L["fb"] = Instance.new("TextButton", G2L["fa"]);
@@ -1684,7 +1684,7 @@ G2L["fb"]["TextSize"] = 12;
 G2L["fb"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Regular, Enum.FontStyle.Normal);
 G2L["fb"]["TextColor3"] = Color3.fromRGB(252, 252, 252);
 G2L["fb"]["Size"] = UDim2.new(0.8136826753616333, 0, 1, 0);
-G2L["fb"]["Text"] = [[Search]];
+G2L["fb"]["Text"] = [[بحث]];
 G2L["fb"]["Position"] = UDim2.new(-0.004637444857507944, 0, 0, 0);
 
 -- StarterGui.DeltaGui.MainUi.MainFrame.Tabs.Scripts.Search.TextButton.UICorner
@@ -4741,8 +4741,8 @@ task.spawn(C_51);
 			execute_script(source)
 			game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Successfully executed the script!";
+            Title = "Delta العرب";
+            Text = "تم تشغيل السكربت بنجاح";
             Duration = 1;
             })
 		end)
@@ -4820,8 +4820,8 @@ local function C_9c()
 		execute_script(script.Parent.Parent.Parent.TextboxBar.Editor.Scroll.Source.Text)
 		game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Successfully executed the script!";
+            Title = "Delta العرب";
+            Text = "تم تشغيل السكربت بنجاح";
             Duration = 1;
             })
 	end)
@@ -4844,8 +4844,8 @@ local function C_aa()
 		execute_script(getclipboard())
 		game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Successfully executed from clipboard!";
+            Title = "Delta العرب";
+            Text = "تم تشغيل السكربت من الحافظه";
             Duration = 1;
             })
 	end)
@@ -4909,8 +4909,8 @@ local function C_fd()
 			execute_script(source)
 			game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Successfully executed the script!";
+            Title = "Delta العرب";
+            Text = "تم تشغيل السكربت بنجاح";
             Duration = 1;
             })
 		end)
@@ -4918,8 +4918,8 @@ local function C_fd()
 			setclipboard(source)
             game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Successfully copied the script!";
+            Title = "Delta العرب";
+            Text = "تم نسخ السكربت بنجاح";
             Duration = 5;
             })
 		end)
@@ -4927,8 +4927,8 @@ local function C_fd()
             AddScript(scriptname, source, false)
             game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Sucessfully saved the script in the script hub";
+            Title = "Delta العرب";
+            Text = "تم حفظ السكربت بنجاح";
             Duration = 5;
             })
             --assaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -4936,8 +4936,8 @@ local function C_fd()
 		loadtext.MouseButton1Click:Connect(function()
 			game.StarterGui:SetCore("SendNotification", 
             {
-            Title = "Delta Android";
-            Text = "Work In Progress / Coming Soon";
+            Title = "Delta العرب";
+            Text = "Work In Progress / تحديث لاحقا";
             Duration = 5;
             })
 
