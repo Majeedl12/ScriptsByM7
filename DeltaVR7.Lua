@@ -4986,7 +4986,7 @@ local function C_110()
 	local script = G2L["110"];
 	local btn = script.Parent
 	btn.MouseButton1Click:Connect(function()
-		setclipboard("https://discord.com/invite/4WhS4tG4")
+		setclipboard("https://discord.com/invite/AdEj6mZKRn")
         game.StarterGui:SetCore("SendNotification", 
     {
     Title = "Delta العرب";
