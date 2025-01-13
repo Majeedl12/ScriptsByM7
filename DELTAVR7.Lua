@@ -1,7 +1,7 @@
 --[[
 
     Title: سكربت دلتا النسخه : X
-    Created By: o2rd
+    Created By: md9s
     Author: v_r7 & o2rd (Team VR7)
 ]]
 
