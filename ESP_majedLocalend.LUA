@@ -1,4 +1,3 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/VJjz8Dk7"))()
 
 _G.FriendColor = Color3.fromRGB(0, 0, 255)
 _G.EnemyColor = Color3.fromRGB(255, 0, 0)
