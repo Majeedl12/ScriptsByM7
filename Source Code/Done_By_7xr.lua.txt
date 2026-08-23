@@ -1,3 +1,29 @@
+local function vm_op_119(a, b, c) return a end
+local function vm_op_118(a, b, c) return a end
+local function vm_op_87(a, b, c) return a end
+local function vm_op_77(a, b, c) return a end
+local function vm_op_121(a, b, c) return a end
+local function vm_op_78(a, b, c) return a end
+local function vm_op_71(a, b, c) return a end
+local function vm_op_74(a, b, c) return a end
+local function vm_op_99(a, b, c) return a end
+local function vm_op_93(a, b, c) return a end
+local function vm_op_147(a, b, c) return a end
+local function vm_op_153(a, b, c) return a end
+local function vm_op_146(a, b, c) return a end
+local function vm_op_89(a, b, c) return a .. b .. c end
+local function vm_op_91(a, b, c) return a - b end
+local function vm_op_152(a, b, c) return a + b end
+local function vm_op_162(a, b, c) a = b end
+local function vm_op_70(a, b, c) a = b end
+local function vm_op_132(a, b, c) return a end
+local function vm_op_111(a, b, c) return a end
+local function vm_op_122(a, b, c) return a end
+local function vm_op_163(a, b, c) return a end
+local function vm_op_134(a, b, c) return a end
+local function vm_op_102(a, b, c) return a end
+local function vm_op_115(a, b, c) return a end
+
 LTrue:
 v0h = {}
 vm_op_78(v0h, v0h, "IsLoaded")
